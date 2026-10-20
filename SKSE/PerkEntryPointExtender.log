@@ -1,0 +1,40 @@
+main.cpp(110): [info] PerkEntryPointExtender 2-3-7-0 is loading...
+Hooks.h(147): [info] Condition_HasKeywordHook complete...
+Hooks.h(53): [info] EntryPointPerkEntry__EvaluateConditionHook complete...
+Hooks.h(88): [info] ApplyAttackSpellsHook complete...
+main.cpp(130): [info] PerkEntryPointExtender has finished loading.
+Utility.h(32): [info] Scrambled bugs detected, reading settings...
+Utility.h(42): [info] Scrambled bugs applyMultipleSpells patch detected.
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 22!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 22!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 62!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+PackUnpack.cpp(22): [error] Failed to get vm type id for class 0!
+Hooks.h(194): [info] Group found in MAG_OneHandedSpeedPerk_GROUP__AttackSpeed__OneHanded
+Hooks.h(194): [info] Group found in MAG_TwoHandedSpeedPerk_GROUP__AttackSpeed__TwoHanded
+Hooks.h(194): [info] Group found in MAG_UnarmedSpeedPerk_GROUP__AttackSpeed__TwoHanded
+Hooks.h(194): [info] Group found in MAG_PowerAttackSpeedPerk_GROUP__AttackSpeed__OneHanded
+Hooks.h(194): [info] Group found in MAG_BowSlow02_GROUP__SlowTimeUnbound
+Hooks.h(194): [info] Group found in MAG_BowSlow01_GROUP__SlowTimeUnbound
+Hooks.h(267): [info] BGSPerkEntry_ConditionEvalHook complete...
+EntryPoint.h(968): [info] Perk Entries Categorized. Processed 2 perks and 2 entries.

@@ -1,0 +1,507 @@
+[22:26:05.129] [29336] [I] CommunityShaders v1-9-1-0
+[22:26:05.144] [29336] [I] [I18n] Loaded 2282 keys from 'c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Translations\en.json'
+[22:26:05.144] [29336] [I] [I18n] Initialized. Locale: en  |  9 available locale(s)  |  2282 fallback keys
+[22:26:05.145] [29336] [I] Loading default settings from: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\SettingsDefault.json
+[22:26:05.145] [29336] [I] Attempting to open config file: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\SettingsDefault.json
+[22:26:05.146] [29336] [I] Applied user settings from: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\SettingsUser.json
+[22:26:05.146] [29336] [I] Discovering override files in: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Overrides
+[22:26:05.146] [29336] [I] Loaded override: AzuriteIIICS for CloudShadows
+[22:26:05.146] [29336] [I] Loaded override: AzuriteIIICS for GrassLighting
+[22:26:05.146] [29336] [I] Loaded override: AzuriteIIICS for ImageBasedLighting
+[22:26:05.146] [29336] [I] Loaded override: AzuriteIIICS for Skylighting
+[22:26:05.147] [29336] [I] Loaded override: AzuriteIIICS for SkySync
+[22:26:05.147] [29336] [I] Discovered 5 override files (7 processed)
+[22:26:05.147] [29336] [I] Discovered 5 override files
+[22:26:05.147] [29336] [I] Loading core settings
+[22:26:05.147] [29336] [I] Checking base themes directory: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Themes
+[22:26:05.147] [29336] [I] Base themes directory exists, added to search paths
+[22:26:05.147] [29336] [I] Data path: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data
+[22:26:05.147] [29336] [I] Parent path: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition
+[22:26:05.147] [29336] [I] Checking MO2 Overwrite path: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\overwrite\SKSE\Plugins\CommunityShaders\Themes
+[22:26:05.147] [29336] [I] MO2 Overwrite themes directory does not exist
+[22:26:05.147] [29336] [I] Discovering themes in 1 directories
+[22:26:05.147] [29336] [I] Searching for themes in: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Themes
+[22:26:05.147] [29336] [I] Discovered theme: Default (Default Dark)
+[22:26:05.148] [29336] [I] Discovered theme: DragonBlood (Dragon Blood)
+[22:26:05.148] [29336] [I] Discovered theme: DwemerBronze (Dwemer Bronze)
+[22:26:05.148] [29336] [I] Discovered theme: HighContrast (High Contrast)
+[22:26:05.148] [29336] [I] Discovered theme: Light (Default Light)
+[22:26:05.149] [29336] [I] Discovered theme: NordicFrost (Nordic Frost)
+[22:26:05.149] [29336] [I] Theme discovery complete. Found 6 themes
+[22:26:05.149] [29336] [I] Loaded theme: Default (Default Dark)
+[22:26:05.149] [29336] [I] Applied theme preset: Default
+[22:26:05.149] [29336] [I] Loaded saved theme preset: Default
+[22:26:05.149] [29336] [I] Loading 'Disable at Boot' settings
+[22:26:05.149] [29336] [I] Loading Feature: 'TruePBR'
+[22:26:05.149] [29336] [I] TruePBR.ini 1-0-0 successfully loaded
+[22:26:05.149] [29336] [I] Loading True PBR settings
+[22:26:05.149] [29336] [I] Loading Feature: 'VolumetricShadows'
+[22:26:05.149] [29336] [I] VolumetricShadows.ini 2-1-0 successfully loaded
+[22:26:05.149] [29336] [I] Loading default settings for Volumetric Shadows
+[22:26:05.150] [29336] [I] Loading Feature: 'GrassLighting'
+[22:26:05.150] [29336] [I] GrassLighting.ini 2-0-3 successfully loaded
+[22:26:05.150] [29336] [I] Loading Grass Lighting settings
+[22:26:05.150] [29336] [I] Applied override from AzuriteIIICS to GrassLighting
+[22:26:05.150] [29336] [I] Applied 1 override(s) to Grass Lighting
+[22:26:05.150] [29336] [I] Loading Feature: 'GrassCollision'
+[22:26:05.150] [29336] [W] This feature is already included as part of the core Community Shaders installation. Uninstall this feature with your mod manager.
+[22:26:05.150] [29336] [I] Loading Feature: 'GrassOptimizations'
+[22:26:05.150] [29336] [I] GrassOptimizations.ini failed to load, feature disabled
+[22:26:05.150] [29336] [I] Loading Feature: 'ScreenSpaceShadows'
+[22:26:05.150] [29336] [I] ScreenSpaceShadows.ini 2-1-0 successfully loaded
+[22:26:05.150] [29336] [I] Loading Screen Space Shadows settings
+[22:26:05.150] [29336] [I] Loading Feature: 'ExtendedMaterials'
+[22:26:05.150] [29336] [I] ExtendedMaterials.ini 1-4-0 successfully loaded
+[22:26:05.150] [29336] [I] Loading Extended Materials settings
+[22:26:05.150] [29336] [I] Loading Feature: 'WetnessEffects'
+[22:26:05.151] [29336] [I] WetnessEffects.ini 3-1-0 successfully loaded
+[22:26:05.151] [29336] [I] Loading Wetness Effects settings
+[22:26:05.151] [29336] [I] Loading Feature: 'LightLimitFix'
+[22:26:05.151] [29336] [I] LightLimitFix.ini 3-2-0 successfully loaded
+[22:26:05.151] [29336] [I] Loading Light Limit Fix settings
+[22:26:05.151] [29336] [I] Loading Feature: 'DynamicCubemaps'
+[22:26:05.151] [29336] [I] DynamicCubemaps.ini 2-5-0 successfully loaded
+[22:26:05.151] [29336] [I] Loading Dynamic Cubemaps settings
+[22:26:05.151] [29336] [I] Loading Feature: 'CloudShadows'
+[22:26:05.151] [29336] [I] CloudShadows.ini 1-5-0 successfully loaded
+[22:26:05.151] [29336] [I] Loading Cloud Shadows settings
+[22:26:05.151] [29336] [I] Applied override from AzuriteIIICS to CloudShadows
+[22:26:05.151] [29336] [I] Applied 1 override(s) to Cloud Shadows
+[22:26:05.151] [29336] [I] Loading Feature: 'WaterEffects'
+[22:26:05.151] [29336] [I] WaterEffects.ini 1-2-1 successfully loaded
+[22:26:05.151] [29336] [I] Loading default settings for Water Effects
+[22:26:05.151] [29336] [I] Loading Feature: 'PerformanceOverlay'
+[22:26:05.151] [29336] [I] PerformanceOverlay.ini 1-2-0 successfully loaded
+[22:26:05.151] [29336] [I] Loading Performance Overlay settings
+[22:26:05.151] [29336] [I] Loading Feature: 'SubsurfaceScattering'
+[22:26:05.151] [29336] [I] SubsurfaceScattering.ini 3-2-1 successfully loaded
+[22:26:05.151] [29336] [I] Loading Subsurface Scattering settings
+[22:26:05.152] [29336] [I] Loading Feature: 'TerrainShadows'
+[22:26:05.152] [29336] [I] TerrainShadows.ini 1-2-2 successfully loaded
+[22:26:05.152] [29336] [I] Loading Terrain Shadows settings
+[22:26:05.152] [29336] [I] Loading Feature: 'ScreenSpaceGI'
+[22:26:05.152] [29336] [I] ScreenSpaceGI.ini 4-2-0 successfully loaded
+[22:26:05.152] [29336] [I] Loading Screen Space GI settings
+[22:26:05.152] [29336] [I] Loading Feature: 'Skylighting'
+[22:26:05.152] [29336] [I] Skylighting.ini 1-5-2 successfully loaded
+[22:26:05.152] [29336] [I] Loading Skylighting settings
+[22:26:05.152] [29336] [I] Applied override from AzuriteIIICS to Skylighting
+[22:26:05.152] [29336] [I] Applied 1 override(s) to Skylighting
+[22:26:05.152] [29336] [I] Loading Feature: 'SkySync'
+[22:26:05.152] [29336] [I] SkySync.ini 1-3-1 successfully loaded
+[22:26:05.152] [29336] [I] Loading Sky Sync settings
+[22:26:05.152] [29336] [I] Applied override from AzuriteIIICS to SkySync
+[22:26:05.152] [29336] [I] Applied 1 override(s) to Sky Sync
+[22:26:05.152] [29336] [I] Loading Feature: 'TerrainBlending'
+[22:26:05.152] [29336] [I] TerrainBlending.ini 1-2-0 successfully loaded
+[22:26:05.152] [29336] [I] Loading Terrain Blending settings
+[22:26:05.152] [29336] [I] Loading Feature: 'TerrainHelper'
+[22:26:05.152] [29336] [I] TerrainHelper.ini failed to load, feature disabled
+[22:26:05.152] [29336] [I] Loading Feature: 'VolumetricLighting'
+[22:26:05.152] [29336] [I] VolumetricLighting.ini 1-1-0 successfully loaded
+[22:26:05.152] [29336] [I] Loading Volumetric Lighting settings
+[22:26:05.152] [29336] [I] Loading Feature: 'LODBlending'
+[22:26:05.153] [29336] [I] LODBlending.ini 1-0-0 successfully loaded
+[22:26:05.153] [29336] [I] Loading LOD Blending settings
+[22:26:05.153] [29336] [I] Loading Feature: 'InverseSquareLighting'
+[22:26:05.153] [29336] [I] InverseSquareLighting.ini 1-3-0 successfully loaded
+[22:26:05.153] [29336] [I] Loading default settings for Inverse Square Lighting
+[22:26:05.153] [29336] [I] Loading Feature: 'HairSpecular'
+[22:26:05.153] [29336] [I] HairSpecular.ini failed to load, feature disabled
+[22:26:05.153] [29336] [I] Loading Feature: 'InteriorSun'
+[22:26:05.153] [29336] [I] InteriorSun.ini 1-0-2 successfully loaded
+[22:26:05.153] [29336] [I] Loading Interior Sun settings
+[22:26:05.153] [29336] [I] Loading Feature: 'TerrainVariation'
+[22:26:05.153] [29336] [I] TerrainVariation.ini 1-2-0 successfully loaded
+[22:26:05.153] [29336] [I] Loading Terrain Variation settings
+[22:26:05.153] [29336] [I] Loading Feature: 'ImageBasedLighting'
+[22:26:05.153] [29336] [I] ImageBasedLighting.ini 1-3-0 successfully loaded
+[22:26:05.153] [29336] [I] Loading Image Based Lighting settings
+[22:26:05.153] [29336] [I] Applied override from AzuriteIIICS to ImageBasedLighting
+[22:26:05.153] [29336] [I] Applied 1 override(s) to Image Based Lighting
+[22:26:05.153] [29336] [I] Loading Feature: 'ExtendedTranslucency'
+[22:26:05.153] [29336] [I] ExtendedTranslucency.ini 1-0-0 successfully loaded
+[22:26:05.153] [29336] [I] Loading Extended Translucency settings
+[22:26:05.153] [29336] [I] Loading Feature: 'Upscaling'
+[22:26:05.153] [29336] [I] Upscaling.ini failed to load, feature disabled
+[22:26:05.153] [29336] [I] Loading Feature: 'RenderDoc'
+[22:26:05.154] [29336] [I] RenderDoc.ini 1-1-0 successfully loaded
+[22:26:05.154] [29336] [I] Loading RenderDoc settings
+[22:26:05.154] [29336] [I] Loading Feature: 'RemoteControl'
+[22:26:05.154] [29336] [I] RemoteControl.ini 1-0-0 successfully loaded
+[22:26:05.154] [29336] [I] Loading default settings for Remote Control
+[22:26:05.154] [29336] [I] Loading Feature: 'CSEditor'
+[22:26:05.154] [29336] [I] CSEditor.ini 2-0-2 successfully loaded
+[22:26:05.154] [29336] [I] Loading default settings for CS Editor
+[22:26:05.154] [29336] [I] Loading Feature: 'Screenshot'
+[22:26:05.154] [29336] [I] Screenshot.ini 1-1-0 successfully loaded
+[22:26:05.154] [29336] [I] Loading Screenshot settings
+[22:26:05.154] [29336] [I] Loading Feature: 'LinearLighting'
+[22:26:05.154] [29336] [I] LinearLighting.ini failed to load, feature disabled
+[22:26:05.154] [29336] [I] Loading Feature: 'Effects11'
+[22:26:05.154] [29336] [I] Effects11.ini failed to load, feature disabled
+[22:26:05.154] [29336] [I] Feature 'UnifiedWater' is disabled at boot.
+[22:26:05.154] [29336] [I] Loading Feature: 'HorizonFix'
+[22:26:05.154] [29336] [I] HorizonFix.ini 1-0-0 successfully loaded
+[22:26:05.154] [29336] [I] Loading default settings for Horizon Fix
+[22:26:05.154] [29336] [I] Loading Feature: 'ExponentialHeightFog'
+[22:26:05.154] [29336] [I] ExponentialHeightFog.ini failed to load, feature disabled
+[22:26:05.154] [29336] [I] Loading Feature: 'HDRDisplay'
+[22:26:05.154] [29336] [I] HDRDisplay.ini failed to load, feature disabled
+[22:26:05.154] [29336] [I] Loading Feature: 'Skin'
+[22:26:05.154] [29336] [I] Skin.ini failed to load, feature disabled
+[22:26:05.155] [29336] [I] Loading Settings Complete
+[22:26:05.155] [29336] [I] Ensured themes directory exists: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Themes
+[22:26:05.156] [29336] [I] Theme files already exist, skipping default creation
+[22:26:05.156] [29336] [I] Loading active theme preset: 'Default'
+[22:26:05.156] [29336] [I] Loaded theme: Default (Default Dark)
+[22:26:05.156] [29336] [I] Applied theme preset: Default
+[22:26:05.157] [29336] [I] Ensured themes directory exists: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Themes
+[22:26:05.157] [29336] [I] Theme files already exist, skipping default creation
+[22:26:05.159] [29336] [I] Hooking D3D11CreateDeviceAndSwapChain
+[22:26:05.159] [29336] [I] Hooking CreateDXGIFactory
+[22:26:05.159] [29336] [I] Calling feature Load methods
+[22:26:05.540] [29336] [I] [Deferred] Installed hooks
+[22:26:05.540] [29336] [I] Hooking BSImageSpace::Init::IBLF
+[22:26:05.540] [29336] [I] Hooking BSInputDeviceManager::PollInputDevices
+[22:26:05.540] [29336] [I] Hooking BSShader::LoadShaders
+[22:26:05.540] [29336] [I] Hooking BSShader::BeginTechnique
+[22:26:05.540] [29336] [I] Hooking BSGraphics::SetDirtyStates
+[22:26:05.540] [29336] [I] Hooking BSGraphics::Renderer::InitD3D
+[22:26:05.540] [29336] [I] Hooking WndProcHandler
+[22:26:05.540] [29336] [I] Hooking BSShaderRenderTargets::Create
+[22:26:05.540] [29336] [I] Hooking BSShaderRenderTargets::Create::CreateRenderTarget(s)
+[22:26:05.540] [29336] [I] Hooking BSImagespaceShader
+[22:26:05.540] [29336] [I] Hooking BSComputeShader
+[22:26:05.540] [29336] [I] Hooking Renderer::DispatchCSShader
+[22:26:05.540] [29336] [I] Hooking TESWaterReflections::Update_Actor::GetLOSPosition for Sky Reflection Fix
+[22:26:05.540] [29336] [I] Hooking weather extensions
+[22:26:05.540] [29336] [I] Hooking MenuManager::DrawInterfaceStart for menu TAA
+[22:26:05.540] [29336] [I] Installing SetupGeometry hooks
+[22:26:05.540] [29336] [I] Installing post-processing hooks
+[22:26:05.541] [29336] [I] Patching BSLightingShader::SetupGeometry::updateEyePosition
+[22:26:05.541] [29336] [I] [Engine Fixes] Installed Effect Shader No Decals Fix
+[22:26:05.541] [29336] [I] [Engine Fixes] Installed Shadowmap Cascade Culling Fix
+[22:26:05.541] [29336] [I] [Engine Fixes] Installed Shadowmap Cascade Rasterizer Fix
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BGSTextureSet
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSLightingShaderProperty
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSLightingShader
+[22:26:05.541] [29336] [I] [TruePBR] Hooking TESLandTexture
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSTempEffectSimpleDecal
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSTempEffectGeometryDecal
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSGrassShaderProperty
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSGrassShader
+[22:26:05.541] [29336] [I] [TruePBR] Hooking TESObjectSTAT
+[22:26:05.541] [29336] [I] [TruePBR] Hooking TESObjectLAND
+[22:26:05.541] [29336] [I] [TruePBR] Hooking BSLightingShader::SetupMaterial
+[22:26:05.541] [29336] [I] [Wetness Effects] Installed ripple hooks
+[22:26:05.541] [29336] [I] [LLF] Particle lights config conflict policy: first-win
+[22:26:05.541] [29336] [I] [LLF] Loading particle lights configs
+[22:26:05.542] [29336] [I] [LLF] 5 matching inis found
+[22:26:05.542] [29336] [I] [LLF] loading ini: Data\ParticleLights\black.ini
+[22:26:05.542] [29336] [I] [LLF] loading ini: Data\ParticleLights\enblightglow.ini
+[22:26:05.542] [29336] [I] [LLF] loading ini: Data\ParticleLights\fxglowenb.ini
+[22:26:05.542] [29336] [I] [LLF] loading ini: Data\ParticleLights\glowsoft01_enbl.ini
+[22:26:05.542] [29336] [I] [LLF] loading ini: Data\ParticleLights\po3_fullalpha.ini
+[22:26:05.542] [29336] [I] [LLF] Installed hooks
+[22:26:05.542] [29336] [I] [Cloud Shadows] Installed hooks
+[22:26:05.542] [29336] [I] [SSS] Installed hooks
+[22:26:05.543] [29336] [I] [Terrain Shadows] Installed console time-change hook
+[22:26:05.543] [29336] [I] [Terrain Shadows] Installed Papyrus GameHour change hook
+[22:26:05.543] [29336] [I] [SKYLIGHTING] Hooking BSLightingShaderProperty::GetPrecipitationOcclusionMapRenderPassesImp
+[22:26:05.543] [29336] [I] Registered class Skylighting::MenuOpenCloseEventHandler
+[22:26:05.543] [29336] [I] [Sky Sync] Installed hooks
+[22:26:05.543] [29336] [I] [Terrain Blending] Installed hooks
+[22:26:05.543] [29336] [I] [InverseSquareLighting] Installed hooks
+[22:26:05.543] [29336] [I] [Interior Sun] Installed hooks
+[22:26:05.543] [29336] [I] TerrainVariation: Installed hooks - BSLightingShader_SetupGeometry
+[22:26:05.543] [29336] [I] TerrainVariation: Feature initialized
+[22:26:05.543] [29336] [I] [ExtendedTranslucency] Installed hooks - BSLightingShader_SetupGeometry
+[22:26:05.598] [29336] [I] [CSEditor] Weather lock hooked 2 SetWeather and 3 ForceWeather call sites
+[22:26:05.598] [29336] [I] [Horizon Fix] HorizonFix plugin not detected, compatibility disabled
+[22:26:05.598] [29336] [I] [SceneSettings] Registered MenuOpenCloseEventHandler
+[22:26:05.599] [29336] [I] Validating True PBR
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Volumetric Shadows
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Grass Lighting
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Grass Collision
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Grass Optimizations
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Screen Space Shadows
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Extended Materials
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Wetness Effects
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Light Limit Fix
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Dynamic Cubemaps
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.599] [29336] [I] Validating Cloud Shadows
+[22:26:05.599] [29336] [I] Installed version and cached version match.
+[22:26:05.599] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Water Effects
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Performance Overlay
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Subsurface Scattering
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Terrain Shadows
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Screen Space GI
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Skylighting
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Sky Sync
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Terrain Blending
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Terrain Helper
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Volumetric Lighting
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating LOD Blending
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Inverse Square Lighting
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Hair Specular
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Interior Sun
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Terrain Variation
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Image Based Lighting
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Extended Translucency
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Upscaling
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating RenderDoc
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Remote Control
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating CS Editor
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Screenshot
+[22:26:05.600] [29336] [I] Installed version and cached version match.
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Linear Lighting
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Effects11
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Unified Water
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Horizon Fix
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Exponential Height Fog
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating HDR Display
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Validating Advanced Skin
+[22:26:05.600] [29336] [I] Cached feature is valid
+[22:26:05.600] [29336] [I] Using disk cache
+[22:26:08.212] [29336] [I] [TypedUAVLoad] Probing per-format UAV typed-load support:
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R11G11B10_FLOAT — supported (Dynamic Cubemaps (envCapture/Raw/Position) — non-HDR)
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R16G16B16A16_FLOAT — supported (Dynamic Cubemaps (HDR), Skylighting outProbeArray)
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R16G16B16A16_UNORM — supported (Grass Collision (collisionTexture))
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R16G16_UNORM — supported (Terrain Shadows (RWTexShadowHeights))
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R8G8B8A8_UNORM — supported (HDR Display UI brightness (uiTexture))
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R8_UINT — supported (Skylighting accumulation frames (outAccumFramesArray))
+[22:26:08.212] [29336] [I] [TypedUAVLoad] R16_FLOAT — supported (Vanilla volumetric lighting density (DensityRW))
+[22:26:08.939] [29336] [I] Blackreach.Terrain.HeightMap.-7.-8.7.12.-284.861.dds loaded.
+[22:26:08.939] [29336] [I] ccBGSSSE067DeadlandsWorld.Terrain.HeightMap.-6.-4.4.7.-140.353.dds loaded.
+[22:26:08.939] [29336] [I] ccKRTSSE001QNWorld.Terrain.HeightMap.-3.-4.2.2.-972.265.dds loaded.
+[22:26:08.939] [29336] [I] DeepwoodRedoubtWorld.Terrain.HeightMap.-39.15.-27.24.-618.472.dds loaded.
+[22:26:08.939] [29336] [I] DLC01FalmerValley.Terrain.HeightMap.-16.-13.10.13.-530.2212.dds loaded.
+[22:26:08.939] [29336] [I] DLC01SoulCairn.Terrain.HeightMap.-52.-43.30.44.-188.245.dds loaded.
+[22:26:08.939] [29336] [I] DLC1HunterHQWorld.Terrain.HeightMap.-31.-8.3.5.-662.308.dds loaded.
+[22:26:08.939] [29336] [I] DLC2ApocryphaWorld.Terrain.HeightMap.-6.-1.7.9.-250.-206.dds loaded.
+[22:26:08.939] [29336] [I] DLC2SolstheimWorld.Terrain.HeightMap.-64.-64.127.127.-1024.6342.dds loaded.
+[22:26:08.939] [29336] [I] JaphetsFollyWorld.Terrain.HeightMap.-7.-6.6.6.-210.163.dds loaded.
+[22:26:08.939] [29336] [I] MarkarthWorld.Terrain.HeightMap.-48.-3.-31.5.-3375.2609.dds loaded.
+[22:26:08.939] [29336] [I] SkuldafnWorld.Terrain.HeightMap.40.-21.62.-1.-285.1876.dds loaded.
+[22:26:08.939] [29336] [I] Sovngarde.Terrain.HeightMap.-23.-32.34.40.-1331.4715.dds loaded.
+[22:26:08.939] [29336] [I] Tamriel.Terrain.HeightMap.-57.-43.61.50.-4629.4924.dds loaded.
+[22:26:09.812] [29336] [I] Weathers directory does not exist: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\Weathers
+[22:26:09.812] [29336] [I] [SceneSettings] Discovering InteriorOnly overwrites in: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\SceneSettings\InteriorOnly
+[22:26:09.812] [29336] [I] [SceneSettings] Overwrites directory does not exist: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\CommunityShaders\SceneSettings\InteriorOnly
+[22:26:09.812] [29336] [I] Calling original Init3D
+[22:26:09.812] [29336] [I] Accessing render device information
+[22:26:09.812] [29336] [I] Detouring virtual function tables
+[22:26:09.813] [29336] [I] Loaded theme: Default (Default Dark)
+[22:26:09.813] [29336] [I] Applied Default.json theme immediately after ImGui context creation
+[22:26:09.813] [29336] [I] Loaded theme: Default (Default Dark)
+[22:26:09.813] [29336] [I] Applied theme preset: Default
+[22:26:09.813] [29336] [I] Re-applied preset 'Default' during Menu::Init
+[22:26:09.816] [29336] [W] [I18n] No supplemental CJK font path candidates for locale display 'es': Español
+[22:26:09.816] [29336] [W] [I18n] No supplemental CJK font path candidates for locale display 'fr': Français
+[22:26:09.837] [29336] [I] [I18n] Rebuilt font atlas with locale glyph support for 'en'
+[22:26:09.849] [29336] [I] InitializeMenuIcons: Loading icons from base path: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\Interface\CommunityShaders\Icons\
+[22:26:09.860] [29336] [I] InitializeMenuIcons: Loaded 22/22 icons successfully
+[22:26:10.000] [29336] [I] BSShader::LoadShaders called on BloodSplatter - ps count 2
+[22:26:10.001] [29336] [I] BSShader::LoadShaders called on DistantTree - ps count 4
+[22:26:10.003] [29336] [I] BSShader::LoadShaders called on RunGrass - ps count 18
+[22:26:10.003] [29336] [I] BSShader::LoadShaders called on Particle - ps count 6
+[22:26:10.005] [29336] [I] BSShader::LoadShaders called on Sky - ps count 9
+[22:26:10.014] [29448] [W] Failed to dispatch message to devbench
+[22:26:10.137] [29336] [I] BSShader::LoadShaders called on Effect - ps count 3216
+[22:26:10.294] [29460] [W] Failed to dispatch message to devbench
+[22:26:10.539] [29336] [I] BSShader::LoadShaders called on Lighting - ps count 6924
+[22:26:10.636] [29336] [I] BSShader::LoadShaders called on Utility - ps count 177
+[22:26:10.671] [29420] [W] Failed to dispatch message to devbench
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on Water - ps count 2172
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on ISFXAA - ps count 1
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on ISCopy - ps count 1
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on ISCopyDynamicFetchDisabled - ps count 1
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on ISCopyScaleBias - ps count 1
+[22:26:10.843] [29336] [I] BSShader::LoadShaders called on ISCopyCustomViewport - ps count 1
+[22:26:10.845] [29336] [I] BSShader::LoadShaders called on ISRefraction - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISDoubleVision - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISCopyTextureMask - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISDepthOfField - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISDistantBlur - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISMap - ps count 1
+[22:26:10.847] [29336] [I] BSShader::LoadShaders called on ISWorldMap - ps count 1
+[22:26:10.848] [29336] [I] BSShader::LoadShaders called on ISWorldMapNoSkyBlur - ps count 1
+[22:26:10.849] [29336] [I] BSShader::LoadShaders called on ISRadialBlur - ps count 1
+[22:26:10.849] [29336] [I] BSShader::LoadShaders called on ISRadialBlurMedium - ps count 1
+[22:26:10.850] [29336] [I] BSShader::LoadShaders called on ISRadialBlurHigh - ps count 1
+[22:26:10.850] [29336] [I] BSShader::LoadShaders called on ISCopyGreyScale - ps count 1
+[22:26:10.850] [29336] [I] BSShader::LoadShaders called on ISHDRTonemapBlendCinematic - ps count 1
+[22:26:10.850] [29336] [I] BSShader::LoadShaders called on ISHDRTonemapBlendCinematicFade - ps count 1
+[22:26:10.850] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample16 - ps count 1
+[22:26:10.851] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample4 - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample16Lum - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample4RGB2Lum - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample4LightAdapt - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample4LumClamp - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample16LightAdapt - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISHDRDownSample16LumClamp - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISBlur3 - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISBlur5 - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISBlur7 - ps count 1
+[22:26:10.852] [29336] [I] BSShader::LoadShaders called on ISBlur9 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISBlur11 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISBlur13 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISBlur15 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur3 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur5 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur7 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur9 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur11 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur13 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISNonHDRBlur15 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur3 - ps count 1
+[22:26:10.853] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur5 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur7 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur9 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur11 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur13 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISBrightPassBlur15 - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISWaterDisplacementClearSimulation - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISWaterDisplacementTexOffset - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISWaterDisplacementWadingRipple - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISWaterDisplacementRainRipple - ps count 1
+[22:26:10.854] [29336] [I] BSShader::LoadShaders called on ISWaterWadingHeightmap - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISWaterRainHeightmap - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISWaterBlendHeightmaps - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISWaterSmoothHeightmap - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISWaterDisplacementNormals - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISNoiseScrollAndBlend - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISNoiseNormalmap - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISLocalMap - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISAlphaBlend - ps count 1
+[22:26:10.855] [29336] [I] BSShader::LoadShaders called on ISDepthOfFieldFogged - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISDepthOfFieldMaskedFogged - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISDistantBlurFogged - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISDistantBlurMaskedFogged - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISVolumetricLighting - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ApplyReflections - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISApplyVolumetricLighting - ps count 1
+[22:26:10.856] [29336] [I] BSShader::LoadShaders called on ISBasicCopy - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISBlur - ps count 1
+[22:26:10.857] [29452] [W] Failed to dispatch message to devbench
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISCompositeVolumetricLighting - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISCompositeLensFlare - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISCompositeLensFlareVolumetricLighting - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISDebugSnow - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISDownsample - ps count 1
+[22:26:10.857] [29336] [I] BSShader::LoadShaders called on ISDownsampleIgnoreBrightest - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISExp - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISIBLensFlares - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISLightingComposite - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISLightingCompositeNoDirectionalLight - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISLightingCompositeMenu - ps count 1
+[22:26:10.858] [29440] [W] Failed to dispatch message to devbench
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ReflectionsRayTracing - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ReflectionsDebugSpecMask - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISSAOBlurH - ps count 1
+[22:26:10.858] [29336] [I] BSShader::LoadShaders called on ISSAOBlurV - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAOCameraZ - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAOCompositeSAO - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAOCompositeFog - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAOCompositeSAOFog - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISMinify - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISMinifyContrast - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAORawAO - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSAORawAONoTemporal - ps count 1
+[22:26:10.859] [29336] [I] BSShader::LoadShaders called on ISSILComposite - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISSILRawInd - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISSimpleColor - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISDisplayDepth - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISSnowSSS - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISTemporalAA - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISTemporalAA_UI - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISTemporalAA_Water - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISUpsampleDynamicResolution - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISWaterBlend - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on ISUnderwaterMask - ps count 1
+[22:26:10.860] [29336] [I] BSShader::LoadShaders called on LensFlare - ps count 1
+[22:26:10.861] [29336] [I] BSShader::LoadShaders called on LensFlareVisibility - ps count 1
+[22:26:10.861] [29336] [I] BSShader::LoadShaders called on ISWaterFlow - ps count 1
+[22:26:10.862] [29456] [W] Failed to dispatch message to devbench
+[22:26:11.003] [28748] [I] InitializeMenuIcons: Loading icons from base path: c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\Interface\CommunityShaders\Icons\
+[22:26:11.015] [28748] [I] InitializeMenuIcons: Loaded 22/22 icons successfully
+[22:26:14.900] [29056] [I] Saved disk cache info (plugin version: 1-9-1-0)
+[22:26:14.900] [29056] [I] [LLF] Unlocked magic light limit
+[22:26:14.900] [29056] [I] Registered class MenuOpenCloseEventHandler
+[22:26:14.900] [29056] [I] Registered class InteriorSun::MenuOpenCloseEventHandler
+[22:26:14.900] [29056] [I] TerrainVariation: Collected 87 landscape diffuse texture paths from 131 land texture records
+[22:26:14.900] [29056] [W] Failed to dispatch message to devbench
+[22:26:14.900] [29056] [I] DevBenchBridge: devbench not present; CS tools not registered
+[22:26:14.900] [29056] [I] [CSEditor] Registered MenuOpenCloseEventHandler
+[22:26:14.900] [29056] [I] NativeMenu: System menu hooks installed
+[22:26:37.963] [29464] [W] Failed to dispatch message to devbench
+[22:27:18.496] [29560] [I] NativeMenu: found the System menu's SettingsPage
+[22:27:18.509] [29336] [I] VanillaSettingsEngine: added the 'Graphics' tab to the Settings list
+[22:27:25.555] [29576] [I] NativeMenu: found the System menu's SettingsPage
+[22:27:25.561] [29336] [I] VanillaSettingsEngine: added the 'Graphics' tab to the Settings list

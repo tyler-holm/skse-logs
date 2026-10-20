@@ -1,0 +1,25 @@
+[18:25:16.036] [172664] [I] TrueHUD v1-1-9-0
+[18:25:16.037] [172664] [I] Registered papyrus functions
+[18:25:16.040] [172664] [I] TrueHUD::RequestPluginAPI called, InterfaceVersion 2
+[18:25:16.040] [172664] [I] TrueHUD::RequestPluginAPI returned the API singleton
+[18:25:16.239] [172664] [W] Failed to obtain NND API
+[18:25:16.335] [172664] [W] Failed to obtain NND API
+[18:25:21.531] [173904] [I] Registered TrueHUD_MCM class
+[18:25:26.048] [170776] [I] Registered TrueHUD
+[18:25:26.048] [170776] [I] Registered all movies
+[18:25:26.048] [170776] [I] Registered struct RE::TESCombatEvent
+[18:25:26.048] [170776] [I] Registered struct RE::TESDeathEvent
+[18:25:26.048] [170776] [I] Registered struct RE::TESEnterBleedoutEvent
+[18:25:26.048] [170776] [I] Registered struct RE::TESHitEvent
+[18:25:26.048] [170776] [I] Registered class RE::MenuOpenCloseEvent
+[18:25:26.048] [170776] [I] Initializing...
+[18:25:26.048] [170776] [I] ...success
+[18:25:26.048] [170776] [I] Reading boss .inis...
+[18:25:26.048] [170776] [I]   Reading Data/SKSE/Plugins/TrueDirectionalMovement/TrueDirectionalMovement_base.ini...
+[18:25:26.048] [170776] [I]   Reading Data/SKSE/Plugins/TrueHUD/TrueHUD_base.ini...
+[18:25:26.048] [170776] [I] ...success
+[18:25:26.048] [170776] [I] Reading MCM .ini...
+[18:25:26.049] [170776] [I] ...success
+[18:25:26.049] [170776] [W] Failed to obtain NND API
+[18:25:32.767] [172664] [W] Failed to obtain NND API
+[18:25:36.019] [172664] [W] Failed to obtain NND API

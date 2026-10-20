@@ -1,0 +1,16 @@
+Initializing SimpleDualSheath version 1.5.9 (runtime 1.7.104.0)
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_WeaponObjects_Attach] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_WeaponObjects_Attach] OK
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Get] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Get] OK
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Attach] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Attach] OK
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Detach] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_SCB_Detach] OK
+[EngineExtensions] [Patch] [void __cdecl SDS::EngineExtensions::Patch_RemoveWeaponScabbard(void)] Writing..
+[EngineExtensions] [Patch] [void __cdecl SDS::EngineExtensions::Patch_RemoveWeaponScabbard(void)] OK
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_ObjectAttachDefault] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_ObjectAttachDefault] OK
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_DisableShieldHideOnSit] Writing..
+[EngineExtensions] [Patch] [SDS::EngineExtensions::Patch_DisableShieldHideOnSit] OK
+Loaded, trampolines: branch:[102/200] codegen:[590/800]

@@ -1,0 +1,104 @@
+[22:26:05.227] [29336] [I] OpenAnimationReplacer v3-2-1-0
+[22:26:05.227] [29336] [I] Reading .ini...
+[22:26:05.227] [29336] [I] ...success
+[22:26:05.630] [29336] [W] Failed to dispatch message to MergeMapper
+[22:26:05.630] [29336] [I] MergeMapper not detected
+[22:26:05.630] [29336] [I] Initializing condition and function factories...
+[22:26:05.630] [29336] [I] Condition and function factories initialized.
+[22:26:09.943] [28400] [I] Starting directory cache...
+[22:26:09.979] [28400] [I] Directory cache complete: 0 OAR directories, 0 legacy directories, 0 animation hashes (32ms)
+[22:26:14.922] [29056] [I] Creating replacer mods...
+[22:26:14.922] [29056] [I] Parsing data\meshes for replacer mods...
+[22:26:14.922] [29056] [I] Using 4 parsing worker(s).
+[22:26:14.923] [29056] [I] Finished parsing data\meshes for replacer mods...
+[22:26:14.923] [29056] [I] No replacer mods found.
+[22:26:14.954] [29056] [I] Creating replacement animations for Actors\Character\...
+[22:26:14.956] [29056] [I] Time spent creating replacement animations for Actors\Character\:
+[22:26:14.956] [29056] [I]   Parsing: 2ms
+[22:26:14.956] [29056] [I]   Updating animations in submods: 0ms
+[22:26:14.956] [29056] [I]   Initializing replacment animations: 0ms
+[22:26:14.956] [29056] [I]   Total: 2ms
+[22:26:15.048] [29056] [I] Creating replacement animations for Actors\Character\...
+[22:26:15.050] [29056] [I] Time spent creating replacement animations for Actors\Character\:
+[22:26:15.050] [29056] [I]   Parsing: 2ms
+[22:26:15.050] [29056] [I]   Updating animations in submods: 0ms
+[22:26:15.050] [29056] [I]   Initializing replacment animations: 0ms
+[22:26:15.050] [29056] [I]   Total: 2ms
+[22:26:35.109] [16820] [I] Creating replacement animations for Clutter\Ruins\SarcophagusLidVert\...
+[22:26:35.109] [16820] [I] Time spent creating replacement animations for Clutter\Ruins\SarcophagusLidVert\:
+[22:26:35.109] [16820] [I]   Parsing: 0ms
+[22:26:35.109] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.109] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.109] [16820] [I]   Total: 0ms
+[22:26:35.114] [16820] [I] Creating replacement animations for Actors\Draugr\...
+[22:26:35.114] [16820] [I] Time spent creating replacement animations for Actors\Draugr\:
+[22:26:35.114] [16820] [I]   Parsing: 0ms
+[22:26:35.114] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.114] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.114] [16820] [I]   Total: 0ms
+[22:26:35.117] [16820] [I] Creating replacement animations for Dungeons\Nordic\SecretPass\Animated\RmSmDoor01\...
+[22:26:35.117] [16820] [I] Time spent creating replacement animations for Dungeons\Nordic\SecretPass\Animated\RmSmDoor01\:
+[22:26:35.117] [16820] [I]   Parsing: 0ms
+[22:26:35.117] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.117] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.117] [16820] [I]   Total: 0ms
+[22:26:35.122] [16820] [I] Creating replacement animations for Traps\PedestalTrap\...
+[22:26:35.122] [16820] [I] Time spent creating replacement animations for Traps\PedestalTrap\:
+[22:26:35.122] [16820] [I]   Parsing: 0ms
+[22:26:35.122] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.122] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.122] [16820] [I]   Total: 0ms
+[22:26:35.136] [16820] [I] Creating replacement animations for Actors\Draugr\...
+[22:26:35.137] [16820] [I] Time spent creating replacement animations for Actors\Draugr\:
+[22:26:35.137] [16820] [I]   Parsing: 0ms
+[22:26:35.137] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.137] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.137] [16820] [I]   Total: 0ms
+[22:26:35.142] [16820] [I] Creating replacement animations for Dungeons\Nordic\Levers\RuinsLever01\...
+[22:26:35.142] [16820] [I] Time spent creating replacement animations for Dungeons\Nordic\Levers\RuinsLever01\:
+[22:26:35.142] [16820] [I]   Parsing: 0ms
+[22:26:35.142] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.142] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.142] [16820] [I]   Total: 0ms
+[22:26:35.152] [16820] [I] Creating replacement animations for Traps\PressurePlate\...
+[22:26:35.153] [16820] [I] Time spent creating replacement animations for Traps\PressurePlate\:
+[22:26:35.153] [16820] [I]   Parsing: 0ms
+[22:26:35.153] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.153] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.153] [16820] [I]   Total: 0ms
+[22:26:35.167] [16820] [I] Creating replacement animations for Dungeons\Nordic\Levers\Pullchain\...
+[22:26:35.167] [16820] [I] Time spent creating replacement animations for Dungeons\Nordic\Levers\Pullchain\:
+[22:26:35.167] [16820] [I]   Parsing: 0ms
+[22:26:35.167] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.167] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.167] [16820] [I]   Total: 0ms
+[22:26:35.168] [16820] [I] Creating replacement animations for Dungeons\Nordic\Doors\Animated\PortcullisLarge\...
+[22:26:35.168] [16820] [I] Time spent creating replacement animations for Dungeons\Nordic\Doors\Animated\PortcullisLarge\:
+[22:26:35.168] [16820] [I]   Parsing: 0ms
+[22:26:35.168] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.168] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.168] [16820] [I]   Total: 0ms
+[22:26:35.181] [16820] [I] Creating replacement animations for Actors\Character\...
+[22:26:35.184] [16820] [I] Time spent creating replacement animations for Actors\Character\:
+[22:26:35.184] [16820] [I]   Parsing: 2ms
+[22:26:35.184] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.184] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.184] [16820] [I]   Total: 2ms
+[22:26:35.207] [16820] [I] Creating replacement animations for Actors\Character\...
+[22:26:35.209] [16820] [I] Time spent creating replacement animations for Actors\Character\:
+[22:26:35.209] [16820] [I]   Parsing: 2ms
+[22:26:35.209] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.209] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.209] [16820] [I]   Total: 2ms
+[22:26:35.224] [18980] [I] Creating replacement animations for Actors\Character\_1stPerson\...
+[22:26:35.226] [18980] [I] Time spent creating replacement animations for Actors\Character\_1stPerson\:
+[22:26:35.226] [18980] [I]   Parsing: 1ms
+[22:26:35.226] [18980] [I]   Updating animations in submods: 0ms
+[22:26:35.226] [18980] [I]   Initializing replacment animations: 0ms
+[22:26:35.226] [18980] [I]   Total: 1ms
+[22:26:35.237] [16820] [I] Creating replacement animations for Weapons\Bow\...
+[22:26:35.237] [16820] [I] Time spent creating replacement animations for Weapons\Bow\:
+[22:26:35.237] [16820] [I]   Parsing: 0ms
+[22:26:35.237] [16820] [I]   Updating animations in submods: 0ms
+[22:26:35.237] [16820] [I]   Initializing replacment animations: 0ms
+[22:26:35.237] [16820] [I]   Total: 0ms

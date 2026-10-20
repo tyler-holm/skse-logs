@@ -1,0 +1,5 @@
+SKSEPlugin.cpp(68): [info] CustomSkills v3.2.0.0
+Interfaces.cpp(244): [error] Failed to register messaging listener for SkillDecay
+Interfaces.cpp(225): [error] Failed to dispatch message to MergeMapper
+Settings.cpp(89): [error] Error reading legacy skill configs: The system cannot find the path specified.
+Interfaces.cpp(225): [error] Failed to dispatch message to all listeners

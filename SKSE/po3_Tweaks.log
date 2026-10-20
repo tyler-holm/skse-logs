@@ -1,0 +1,36 @@
+[22:26:05.261] [29336] [I] powerofthree's Tweaks v1.17.1.0
+[22:26:05.261] [29336] [I] Game version : 1.7.104.0
+[22:26:05.535] [29336] [I] *****************POST LOAD PATCH******************
+[22:26:05.536] [29336] [I] No settings to migrate...
+[22:26:05.537] [29336] [I] 	[FIXES]
+[22:26:05.537] [29336] [I] 		Installed distant ref load crash fix
+[22:26:05.537] [29336] [I] 		Installed map marker placement fix
+[22:26:05.537] [29336] [I] 		Installed 'Can't Be Taken' book flag fix
+[22:26:05.537] [29336] [I] 		Installed projectile range fix
+[22:26:05.537] [29336] [I] 		Installed combat dialogue fix
+[22:26:05.537] [29336] [I] 		Installed IsFurnitureAnimType fix
+[22:26:05.537] [29336] [I] 		Installed light attach crash fix
+[22:26:05.537] [29336] [I] 		Installed effect shader z buffer fix
+[22:26:05.537] [29336] [I] 		Installed toggle collision fix
+[22:26:05.537] [29336] [I] 		Installed skinned decal delete fix
+[22:26:05.537] [29336] [I] 		Installed jumping bonus fix
+[22:26:05.537] [29336] [I] 		Installed toggle global AI fix
+[22:26:05.537] [29336] [I] 		Installed use furniture in combat fix
+[22:26:05.538] [29336] [I] 		Installed TESWeather editorID patch
+[22:26:05.538] [29336] [I] 		Installed editorID cache
+[22:26:05.539] [29336] [I] 		Installed worn restrictions for weapons patch
+[22:26:05.539] [29336] [I] 		Installed MagicItemFindKeywordFunctor crash fix
+[22:26:05.539] [29336] [I] 	[TWEAKS]
+[22:26:05.539] [29336] [I] 	[EXPERIMENTAL]
+[22:26:05.630] [29336] [I] ************PLUGIN COMPATIBILITY CHECK************
+[22:26:05.630] [29336] [I] Scrambled Bugs : AttachHitEffect patch is enabled
+[22:26:05.630] [29336] [I] ***************POST POST LOAD PATCH***************
+[22:26:05.630] [29336] [I] 	[FIXES]
+[22:26:05.630] [29336] [I] 		Installed no death dispel spell reapply fix
+[22:26:10.954] [28732] [I] ********************FUNCTIONS*********************
+[22:26:10.954] [28732] [I] Registered IsTweakInstalled
+[22:26:15.288] [29056] [I] ****************DATA LOADED PATCH*****************
+[22:26:15.288] [29056] [I] 	[FIXES]
+[22:26:15.289] [29056] [I] 		Installed breathing sound fix
+[22:26:15.289] [29056] [I] 		[Screenshot Location Fix] No fixes required (ScreenShot)
+[22:26:15.289] [29056] [I] 	[TWEAKS]

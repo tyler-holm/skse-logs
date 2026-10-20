@@ -1,0 +1,4 @@
+main.cpp(54): [info] AutoInputSwitch v1.3.1.0
+Hooks.cpp(20): [critical] Failed to install MapToUserEvent hook
+Hooks.cpp(85): [critical] Failed to install IsGamepadConnected hook
+Hooks.cpp(13): [info] Finished installing hooks

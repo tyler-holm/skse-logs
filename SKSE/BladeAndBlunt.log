@@ -1,0 +1,117 @@
+[22:26:05.124] [29336] [I] BladeAndBlunt 4-0-1-0 loading...
+[22:26:05.124] [29336] [D] Default Trampoline => 0B / 320B (00.00%)
+[22:26:05.125] [29336] [D] Default Trampoline => 14B / 320B (04.38%)
+[22:26:05.125] [29336] [I] Installed hook for frame update
+[22:26:05.125] [29336] [I] Installing Actor update
+[22:26:05.125] [29336] [D] Default Trampoline => 28B / 320B (08.75%)
+[22:26:05.125] [29336] [I] Actor Update Hook installed
+[22:26:05.125] [29336] [D] Default Trampoline => 42B / 320B (13.12%)
+[22:26:05.125] [29336] [I] Installed hook for scale patch
+[22:26:05.125] [29336] [I] Block max hook installed
+[22:26:05.125] [29336] [D] Default Trampoline => 56B / 320B (17.50%)
+[22:26:05.125] [29336] [D] hook verification [MiscPatches.cpp:49]: orphan tail past write_branch at 0x7FF75C495269 (4 bytes) hash 0x486049436E9DD353 -- pass a_expectedHash=0x486049436E9DD353 to pin this state (re-checked every launch).
+[22:26:05.125] [29336] [I] Absorb cap hook installed.
+[22:26:05.125] [29336] [I] Installing Stagger patch
+[22:26:05.125] [29336] [I] Stagger patch installed
+[22:26:05.125] [29336] [I] Installing AnimEventHook hook
+[22:26:05.125] [29336] [I] Writing arrow release handler hook
+[22:26:05.125] [29336] [D] Default Trampoline => 70B / 320B (21.88%)
+[22:26:05.125] [29336] [I] Release arrow hooked
+[22:26:05.125] [29336] [I] Installing ar hook AE
+[22:26:05.125] [29336] [D] Default Trampoline => 115B / 320B (35.94%)
+[22:26:05.125] [29336] [D] Default Trampoline => 123B / 320B (38.44%)
+[22:26:05.125] [29336] [D] Default Trampoline => 166B / 320B (51.88%)
+[22:26:05.125] [29336] [D] Default Trampoline => 174B / 320B (54.37%)
+[22:26:05.125] [29336] [I] armor rating AE hook installed
+[22:26:05.125] [29336] [I] Installed ar hook AE
+[22:26:05.125] [29336] [D] Default Trampoline => 240B / 320B (75.00%)
+[22:26:05.125] [29336] [D] Default Trampoline => 248B / 320B (77.50%)
+[22:26:05.125] [29336] [D] hook verification [BlockPowerAttackScalingPatch.h:93]: orphan tail past write_branch at 0x7FF75C5B0DF2 (6 bytes) hash 0x47A6CCE1CFC3F1A9 -- pass a_expectedHash=0x47A6CCE1CFC3F1A9 to pin this state (re-checked every launch).
+[22:26:05.125] [29336] [I] Block power attack hook installed
+[22:26:05.125] [29336] [I] Blade and Blunt loaded.
+[22:26:05.348] [29336] [I] Bash hook installed
+[22:26:05.348] [29336] [I] Obtained TrueHUD API
+[22:26:14.898] [29056] [I] Loading forms
+[22:26:14.898] [29056] [I] Setting max armor rating to 90
+[22:26:14.898] [29056] [I] Forms loaded
+[22:26:14.898] [29056] [I] Adjusting weapon stagger values
+[22:26:14.898] [29056] [I] Stagger values adjusted: 5449 weapons
+[22:26:14.898] [29056] [I] Swapping power attack types
+[22:26:14.898] [29056] [I] Updated race: Argonian - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Argonian - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Argonian - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Argonian - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Breton - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Breton - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.898] [29056] [I] Updated race: Breton - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Breton - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Dark Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Dark Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Dark Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Dark Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: High Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Imperial - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Invisible Race - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Invisible Race - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Khajiit - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Khajiit - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Khajiit - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Khajiit - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Nord - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Old People Race - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Old People Race - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Old People Race - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Old People Race - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Orc - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Orc - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Orc - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Orc - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Redguard - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Wood Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Wood Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Wood Elf - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: Wood Elf - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: YsoldaRace - event: attackPowerStartH2HCombo - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Updated race: YsoldaRace - event: attackPowerStartDualWield - PowerAttackTypeStanding -> MAG_PowerAttackTypeDual
+[22:26:14.899] [29056] [I] Power attack types swapped
+[22:26:14.899] [29056] [I] Requesting SMI API
+[22:26:14.899] [29056] [I] SMI detected. Relinquishing healthbar control
+[22:26:14.899] [29056] [W] Stagger HUD installation failed.
+[22:26:37.577] [29336] [I] Deserialized: 0.000000
+[22:26:37.586] [29336] [I] Setting max armor rating to 90

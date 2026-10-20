@@ -1,0 +1,9 @@
+[22:26:05.315] [info] SKSE ISL v0.1.0 loading...
+[22:26:05.315] [info] [ISL] Install complete (enabled=true, refrs=true, boost=true)
+[22:26:05.539] [info] [ISL] SKSE Menu Framework not installed — skipping UI.
+[22:26:15.291] [info] [ISL] kDataLoaded - scanning exclusions, running LIGH pass
+[22:26:15.301] [info] [ISL] LightPlacer scan: files=44 lightTokens=710 edids=710 resolvedLIGH=710 excludedBases=22
+[22:26:15.304] [info] [ISL] Magic/FX light scan: mgef=89 projectile=3 explosion=2 hazard=6 nameMatch=120 excludedBases=220
+[22:26:15.304] [info] [ISL] Converting 1300 LIGH forms...
+[22:26:15.304] [info] [ISL]   converted=839 alreadyISL=47 mathSkipped=0 lpSkipped=22 magicFXSkipped=190 spotSkipped=202 radiusMatched=true intensity=1.00 boost=8.00 cutoff=0.050
+[22:26:37.588] [info] [ISL] save/new game message received

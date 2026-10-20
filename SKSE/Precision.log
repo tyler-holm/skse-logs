@@ -1,0 +1,13 @@
+[22:26:05.265] [29336] [I] Precision v2-0-6-0
+[22:26:05.265] [29336] [I] Registered papyrus functions
+[22:26:10.954] [28732] [I] Registered Precision_MCM class
+[22:26:10.954] [28732] [I] Registered Precision_Utility class
+[22:26:15.289] [29056] [I] Registered class RE::InputEvent
+[22:26:15.289] [29056] [I] Registered all event handlers
+[22:26:15.289] [29056] [I] Initializing...
+[22:26:15.289] [29056] [I] ...success
+[22:26:15.289] [29056] [I] Reading .toml files...
+[22:26:15.289] [29056] [I]   Reading Data/SKSE/Plugins/Precision/Precision_base.toml...
+[22:26:15.290] [29056] [I] ...success
+[22:26:15.290] [29056] [I] Reading MCM .ini...
+[22:26:15.290] [29056] [I] ...success

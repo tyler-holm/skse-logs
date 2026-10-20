@@ -1,0 +1,15 @@
+[22:26:05.179] [29336] [I] Journeyman v2-0-0-0
+[22:26:05.179] [29336] [D] Default Trampoline => 0B / 48B (00.00%)
+[22:26:05.179] [29336] [I] Journeyman has finished loading.
+[22:26:05.179] [29336] [I] 
+[22:26:14.920] [29056] [I] Loading settings
+[22:26:14.920] [29056] [I] Message loaded
+[22:26:14.920] [29056] [I] Settings loaded
+[22:26:14.920] [29056] [I] Registered TESFastTravelEndEvent handler
+[22:26:14.920] [29056] [I] 
+[22:26:14.920] [29056] [I] Registered MenuOpenCloseEvent handler
+[22:26:14.920] [29056] [I] 
+[22:26:14.920] [29056] [D] Default Trampoline => 14B / 48B (29.17%)
+[22:26:14.920] [29056] [I] Installed ft hook
+[22:26:14.920] [29056] [D] Default Trampoline => 28B / 48B (58.33%)
+[22:26:14.920] [29056] [I] Installed papyrus ft hook

@@ -1,0 +1,58 @@
+[2026-10-19 22:26:05.057][main.cpp        :98  ][I]: EngineFixes v7.0.21 PreLoad
+[2026-10-19 22:26:05.060][memory.cpp      :18  ][I]: set allocator to TBB
+[2026-10-19 22:26:05.061][memory_manager.h:118 ][I]: installed global memory manager patch
+[2026-10-19 22:26:05.061][scrapheap.h     :98  ][I]: installed scrapheap patch
+[2026-10-19 22:26:05.061][scaleform_allocator.h:95  ][I]: installed scaleform allocator patch
+[2026-10-19 22:26:05.061][renderpass_cache.h:101 ][I]: installed render pass cache patch
+[2026-10-19 22:26:05.061][havok_memory_system.h:154 ][I]: installed havok memory system patch
+[2026-10-19 22:26:05.061][allocator.cpp   :83  ][I]: imports replaced with tbb allocator functions
+[2026-10-19 22:26:05.061][enable_achievements.h:27  ][I]: installed enable achievements with mods patch
+[2026-10-19 22:26:05.062][form_caching.h  :208 ][I]: installed form caching patch
+[2026-10-19 22:26:05.062][ini_setting_collection.h:28  ][I]: installed INISettingCollection patch
+[2026-10-19 22:26:05.062][max_stdio.h     :18  ][I]: set max stdio to 8192 from 512
+[2026-10-19 22:26:05.062][safe_exit.h     :35  ][I]: installed safe exit patch
+[2026-10-19 22:26:05.062][save_added_sound_categories.h:20  ][I]: installed save added sound category volumes patch
+[2026-10-19 22:26:05.062][save_game_max_size.h:38  ][I]: installed save game max size patch
+[2026-10-19 22:26:05.062][tree_lod_reference_caching.h:43  ][I]: installed tree lod reference caching patch
+[2026-10-19 22:26:05.062][waterflow_animation.h:25  ][I]: installed waterflow animation patch
+[2026-10-19 22:26:05.062][archery_downward_aiming.h:30  ][I]: installed archery downward aiming fix
+[2026-10-19 22:26:05.062][animation_load_signed_crash.h:11  ][I]: installed animation load signed crash fix
+[2026-10-19 22:26:05.062][bethesda_net_crash.h:48  ][I]: installed bethesda net crash fix
+[2026-10-19 22:26:05.062][bgskeywordform_load_crash.h:57  ][I]: installed bgskeywordform load crash fix
+[2026-10-19 22:26:05.062][bslightingambientspecular.h:60  ][I]: installed BSLightingAmbientSpecular fix
+[2026-10-19 22:26:05.062][bslightingshader_force_alpha_test.h:37  ][I]: installed bslightingshader force alpha test fix
+[2026-10-19 22:26:05.062][bslightingshaderproperty_shadowmap.h:147 ][I]: installed bslightingshaderproperty shadowmap fix
+[2026-10-19 22:26:05.062][bstempeffect_nirtti.h:11  ][I]: installed bstempeffect nirtti fix
+[2026-10-19 22:26:05.062][calendar_skipping.h:54  ][I]: installed calendar skipping fix
+[2026-10-19 22:26:05.062][cell_init.h     :31  ][I]: installed cell init fix
+[2026-10-19 22:26:05.063][climate_load.h  :40  ][I]: installed climate load fix
+[2026-10-19 22:26:05.063][create_armor_node_nullptr_crash.h:43  ][I]: installed create armor node nullptr crash fix
+[2026-10-19 22:26:05.063][double_perk_apply.h:110 ][I]: installed double perk apply fix
+[2026-10-19 22:26:05.063][equip_shout_event_spam.h:56  ][I]: installed equip shout event spam fix
+[2026-10-19 22:26:05.063][esl_cell_loading_bug.h:56  ][I]: installed ESL CELL load bug fix
+[2026-10-19 22:26:05.063][facegen_morphdatahead_nullptr_crash.h:64  ][I]: installed facegen morphdatahead nullptr crash fix
+[2026-10-19 22:26:05.063][get_keyword_item_count.h:62  ][I]: installed getkeyworditemcount fix
+[2026-10-19 22:26:05.063][gheap_leak_detection_crash.h:10  ][I]: installed gheap leak detection crash fix
+[2026-10-19 22:26:05.063][global_time.h   :37  ][I]: installed global time fix
+[2026-10-19 22:26:05.063][initialize_hit_data_nullptr_crash.h:47  ][I]: installed initialize hit data nullptr crash
+[2026-10-19 22:26:05.063][lip_sync.h      :31  ][I]: installed lip sync fix
+[2026-10-19 22:26:05.063][memory_access_errors.h:108 ][I]: installed misc memory access error fixes
+[2026-10-19 22:26:05.063][mo5s_typo.h     :11  ][I]: installed MO5S typo fix
+[2026-10-19 22:26:05.063][music_overlap.h :20  ][I]: installed music overlap fix
+[2026-10-19 22:26:05.063][nitimecontroller_no_target.h:92  ][I]: nstalled NiTimeController with no target crash fix
+[2026-10-19 22:26:05.063][null_process_crash.h:34  ][I]: installed null process crash fix
+[2026-10-19 22:26:05.064][precomputed_paths.h:110 ][I]: installed precomputed paths crash fix
+[2026-10-19 22:26:05.064][perk_fragment_is_running.h:18  ][I]: installed perk fragment is running fix
+[2026-10-19 22:26:05.064][removed_spellbook.h:34  ][I]: installed removed spell book fix
+[2026-10-19 22:26:05.064][saved_havok_data_load_init.h:37  ][I]: installed saved havok data load init fix
+[2026-10-19 22:26:05.064][shadowscenenode_nullptr_crash.h:44  ][I]: installed shadow scene node nullptr crash fix
+[2026-10-19 22:26:05.064][texture_load_crash.h:63  ][I]: installed texture load crash fix
+[2026-10-19 22:26:05.064][torch_landscape.h:53  ][I]: installed torch landscape fix
+[2026-10-19 22:26:05.064][vertical_look_sensitivity.h:94  ][I]: installed vertical look sensitivity fix
+[2026-10-19 22:26:05.064][weapon_block_scaling.h:74  ][I]: installed weapon block scaling fix
+[2026-10-19 22:26:05.167][main.cpp        :192 ][I]: EngineFixes SKSE Load
+[2026-10-19 22:26:14.909][save_screenshots.h:270 ][I]: installed save screenshots fix
+[2026-10-19 22:26:14.909][stuck_mouse_buttons.h:80  ][I]: installed stuck mouse buttons fix
+[2026-10-19 22:26:14.909][tree_reflections.h:54  ][I]: installed tree lod reflection fix
+[2026-10-19 22:26:14.909][bslightingshader_parallax_bug.h:51  ][I]: community shaders detected - disabling bslightingshader parallax fix as it conflicts and is unecessary
+[2026-10-19 22:26:14.910][main.cpp        :46  ][I]: time to main menu 9853

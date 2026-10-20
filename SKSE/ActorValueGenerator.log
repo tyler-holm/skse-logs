@@ -1,0 +1,511 @@
+main.cpp(594): [info] ActorValueGenerator 2-3-6-0 is loading...
+SerialManager.h(142): [info] Serialization ID  initialized. size 3.
+LegacySerializer.h(372): [info] Legacy ID 4281927 initialized.
+main.cpp(613): [info] ActorValueGenerator has finished loading.
+FormExtraValueHandler.h(597): [info] KID found, will initialize on after ModEvent.
+main.cpp(445): [info] Starting...
+main.cpp(493): [info] Ending?... true true
+main.cpp(315): [info] searching for configs at  'Data/SKSE/Lexicon/Resources/ActorValueGenerator'
+main.cpp(327): [info] Config Count: 1
+main.cpp(330): [info] Parsing: Utility.toml-------------
+FileParser.h(483): [info] Starting: Empty-------------
+ExtraValueInfo.cpp(609): [info] Functional value Empty created. Get: 1111, Set: 1111
+ExtraValueInfo.h(857): [info] Info "Empty" created, data: 4294967295, value offset: 0
+FileParser.h(483): [info] Starting: HealthBase-------------
+ExtraValueInfo.cpp(609): [info] Functional value HealthBase created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "HealthBase" created, data: 4294967295, value offset: 1
+FileParser.h(483): [info] Starting: HealthMax-------------
+ExtraValueInfo.cpp(609): [info] Functional value HealthMax created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "HealthMax" created, data: 4294967295, value offset: 2
+FileParser.h(483): [info] Starting: HealthPercent-------------
+ExtraValueInfo.cpp(609): [info] Functional value HealthPercent created. Get: 1001, Set: 1000
+ExtraValueInfo.h(857): [info] Info "HealthPercent" created, data: 4294967295, value offset: 3
+FileParser.h(483): [info] Starting: Level-------------
+ExtraValueInfo.cpp(609): [info] Functional value Level created. Get: 0000, Set: 0000
+ExtraValueInfo.h(857): [info] Info "Level" created, data: 4294967295, value offset: 4
+FileParser.h(483): [info] Starting: MagickaBase-------------
+ExtraValueInfo.cpp(609): [info] Functional value MagickaBase created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "MagickaBase" created, data: 4294967295, value offset: 5
+FileParser.h(483): [info] Starting: MagickaMax-------------
+ExtraValueInfo.cpp(609): [info] Functional value MagickaMax created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "MagickaMax" created, data: 4294967295, value offset: 6
+FileParser.h(483): [info] Starting: MagickaPercent-------------
+ExtraValueInfo.cpp(609): [info] Functional value MagickaPercent created. Get: 1001, Set: 1000
+ExtraValueInfo.h(857): [info] Info "MagickaPercent" created, data: 4294967295, value offset: 7
+FileParser.h(483): [info] Starting: StaminaBase-------------
+ExtraValueInfo.cpp(609): [info] Functional value StaminaBase created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "StaminaBase" created, data: 4294967295, value offset: 8
+FileParser.h(483): [info] Starting: StaminaMax-------------
+ExtraValueInfo.cpp(609): [info] Functional value StaminaMax created. Get: 0001, Set: 0000
+ExtraValueInfo.h(857): [info] Info "StaminaMax" created, data: 4294967295, value offset: 9
+FileParser.h(483): [info] Starting: StaminaPercent-------------
+ExtraValueInfo.cpp(609): [info] Functional value StaminaPercent created. Get: 1001, Set: 1000
+ExtraValueInfo.h(857): [info] Info "StaminaPercent" created, data: 4294967295, value offset: 10
+main.cpp(335): [info] Ignoring future Utility_AVG.toml
+main.cpp(342): [info] searching for configs at  'Data/SKSE/Plugins/ActorValueData'
+main.cpp(346): [info] Legacy Count: 6
+main.cpp(351): [info] Parsing: !ActorValue_AVG.toml-------------
+FileParser.h(483): [info] Starting: Properties-------------
+main.cpp(351): [info] Parsing: !Commons_AVG.toml-------------
+FileParser.h(483): [info] Starting: Properties-------------
+FileParser.h(217): [info] before ' 0xF'
+FileParser.h(219): [info] after '0xF'
+FileParser.h(217): [info] before ' 0x14'
+FileParser.h(219): [info] after '0x14'
+FileParser.h(483): [info] Starting: GetActorValue-------------
+FileParser.h(483): [info] Starting: GetCrimeGold-------------
+FileParser.h(483): [info] Starting: GetGameSetting-------------
+FileParser.h(483): [info] Starting: GetGlobalValue-------------
+FileParser.h(483): [info] Starting: GetGlobalValueParam-------------
+FileParser.h(483): [info] Starting: GetHasMagicEffect-------------
+FileParser.h(483): [info] Starting: GetItemCount-------------
+FileParser.h(483): [info] Starting: GetKeyword-------------
+FileParser.h(483): [info] Starting: GetKeywordString-------------
+FileParser.h(483): [info] Starting: GetLevel-------------
+FileParser.h(483): [info] Starting: GetPlayerLevelDistance-------------
+FileParser.h(483): [info] Starting: GetRandomRange-------------
+FileParser.h(483): [info] Starting: HasPerks-------------
+FileParser.h(483): [info] Starting: IsInFaction-------------
+FileParser.h(483): [info] Starting: IsRace-------------
+FileParser.h(483): [info] Starting: ternary-------------
+main.cpp(351): [info] Parsing: ActorValue_AVG.toml-------------
+main.cpp(351): [info] Parsing: BladeAndBlunt_AVG.toml-------------
+FileParser.h(483): [info] Starting: BleedResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "BleedResist" created, data: 0, value offset: 0
+FileParser.h(483): [info] Starting: CastSpeed-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "CastSpeed" created, data: 1, value offset: 1
+FileParser.h(483): [info] Starting: CritResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "CritResist" created, data: 2, value offset: 2
+FileParser.h(483): [info] Starting: Include-------------
+FileParser.h(516): [info] Including for 'Adamant.esp'
+FileParser.h(527): [info] Adamant.esp: InjuryResist
+FileParser.h(527): [info] Adamant.esp: StaggerPoints
+FileParser.h(527): [info] Adamant.esp: StaggerPower
+FileParser.h(527): [info] Adamant.esp: StaggerResist
+FileParser.h(527): [info] Adamant.esp: CritResist
+FileParser.h(527): [info] Adamant.esp: BleedResist
+FileParser.h(527): [info] Adamant.esp: MagickaResist
+FileParser.h(527): [info] Adamant.esp: StaminaResist
+FileParser.h(527): [info] Adamant.esp: SwordPoints
+FileParser.h(516): [info] Including for 'AdamantBlade.esp'
+FileParser.h(527): [info] AdamantBlade.esp: StaggerPoints
+FileParser.h(527): [info] AdamantBlade.esp: StaggerPower
+FileParser.h(527): [info] AdamantBlade.esp: StaggerResist
+FileParser.h(516): [info] Including for 'Apprentice.esp'
+FileParser.h(527): [info] Apprentice.esp: InjuryResist
+FileParser.h(516): [info] Including for 'Artificer.esp'
+FileParser.h(527): [info] Artificer.esp: StaggerPoints
+FileParser.h(527): [info] Artificer.esp: StaggerPower
+FileParser.h(527): [info] Artificer.esp: StaggerResist
+FileParser.h(516): [info] Including for 'BladeAndBlunt.esp'
+FileParser.h(527): [info] BladeAndBlunt.esp: InjuryResist
+FileParser.h(527): [info] BladeAndBlunt.esp: StaggerPoints
+FileParser.h(527): [info] BladeAndBlunt.esp: StaggerPower
+FileParser.h(527): [info] BladeAndBlunt.esp: StaggerResist
+FileParser.h(527): [info] BladeAndBlunt.esp: MagickaResist
+FileParser.h(527): [info] BladeAndBlunt.esp: StaminaResist
+FileParser.h(516): [info] Including for 'HandtoHand.esp'
+FileParser.h(527): [info] HandtoHand.esp: FuryPoints
+FileParser.h(516): [info] Including for 'MAG_MagicDamageBleed'
+FileParser.h(527): [info] MAG_MagicDamageBleed: BleedResist = ResistMagic
+FileParser.h(516): [info] Including for 'MAG_MagicDamageCritical'
+FileParser.h(527): [info] MAG_MagicDamageCritical: CritResist = ResistMagic
+FileParser.h(516): [info] Including for 'MAG_MagicDamageMagicka'
+FileParser.h(527): [info] MAG_MagicDamageMagicka: MagickaResist = ResistMagic
+FileParser.h(516): [info] Including for 'MAG_MagicDamageStamina'
+FileParser.h(527): [info] MAG_MagicDamageStamina: StaminaResist = ResistMagic
+FileParser.h(516): [info] Including for 'MAG_MagicDamageSun'
+FileParser.h(527): [info] MAG_MagicDamageSun: SunResist = ResistMagic
+FileParser.h(516): [info] Including for 'Mundus.esp'
+FileParser.h(527): [info] Mundus.esp: StaggerPower
+FileParser.h(527): [info] Mundus.esp: StaggerResist
+FileParser.h(516): [info] Including for 'SimonrimSpellSpeed.esp'
+FileParser.h(527): [info] SimonrimSpellSpeed.esp: CastSpeed
+FileParser.h(516): [info] Including for 'Thaumaturgy.esp'
+FileParser.h(527): [info] Thaumaturgy.esp: StaggerPoints
+FileParser.h(527): [info] Thaumaturgy.esp: StaggerPower
+FileParser.h(527): [info] Thaumaturgy.esp: StaggerResist
+FileParser.h(483): [info] Starting: InjuryResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "InjuryResist" created, data: 3, value offset: 3
+FileParser.h(483): [info] Starting: MagickaResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "MagickaResist" created, data: 4, value offset: 4
+FileParser.h(483): [info] Starting: StaggerPoints-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "StaggerPoints" created, data: 5, value offset: 5
+FileParser.h(483): [info] Starting: StaggerPower-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "StaggerPower" created, data: 6, value offset: 6
+FileParser.h(483): [info] Starting: StaggerResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "StaggerResist" created, data: 7, value offset: 7
+FileParser.h(483): [info] Starting: StaminaResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "StaminaResist" created, data: 8, value offset: 8
+FileParser.h(483): [info] Starting: SunResist-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "SunResist" created, data: 9, value offset: 9
+FileParser.h(483): [info] Starting: SwordPoints-------------
+ExtraValueInfo.cpp(246): [info] No rec data
+ExtraValueInfo.h(857): [info] Info "SwordPoints" created, data: 10, value offset: 10
+main.cpp(351): [info] Parsing: Commons_AVG.toml-------------
+main.cpp(351): [info] Parsing: PerkEntryPointExtender_AVG.toml-------------
+FileParser.h(483): [info] Starting: EPValue-------------
+ExtraValueInfo.cpp(609): [info] Functional value EPValue created. Get: 1111, Set: 1111
+ExtraValueInfo.h(857): [info] Info "EPValue" created, data: 4294967295, value offset: 11
+FileParser.h(483): [info] Starting: Include-------------
+FileParser.h(516): [info] Including for '<..._EnableEPScale>'
+FileParser.h(527): [info] <..._EnableEPScale>: EPValue
+FileParser.h(483): [info] Starting: requires-------------
+main.cpp(356): [info] Finishing the manifest. . .
+LegacyFunctions.h(566): [info] #1 = true
+LegacyFunctions.h(566): [info] #2 = true
+LegacyFunctions.h(566): [info] #3 = true
+LegacyFunctions.h(566): [info] #4 = true
+LegacyFunctions.h(566): [info] #5 = true
+LegacyFunctions.h(566): [info] #6 = true
+LegacyFunctions.h(566): [info] #7 = true
+LegacyFunctions.h(566): [info] #8 = true
+LegacyFunctions.h(566): [info] #9 = true
+LegacyFunctions.h(566): [info] #10 = true
+LegacyFunctions.h(566): [info] #11 = true
+LegacyFunctions.h(566): [info] #12 = true
+LegacyFunctions.h(566): [info] #13 = true
+LegacyFunctions.h(566): [info] #14 = true
+ExtraValueInfo.h(701): [info] EVs finalized, 11/0/12 (23)
+ExtraValueInfo.h(709): [info] ExtraValue 'BleedResist', ID 165
+ExtraValueInfo.h(709): [info] ExtraValue 'CastSpeed', ID 166
+ExtraValueInfo.h(709): [info] ExtraValue 'CritResist', ID 167
+ExtraValueInfo.h(709): [info] ExtraValue 'InjuryResist', ID 168
+ExtraValueInfo.h(709): [info] ExtraValue 'MagickaResist', ID 169
+ExtraValueInfo.h(709): [info] ExtraValue 'StaggerPoints', ID 170
+ExtraValueInfo.h(709): [info] ExtraValue 'StaggerPower', ID 171
+ExtraValueInfo.h(709): [info] ExtraValue 'StaggerResist', ID 172
+ExtraValueInfo.h(709): [info] ExtraValue 'StaminaResist', ID 173
+ExtraValueInfo.h(709): [info] ExtraValue 'SunResist', ID 174
+ExtraValueInfo.h(709): [info] ExtraValue 'SwordPoints', ID 175
+ExtraValueInfo.h(709): [info] ExtraValue 'Empty', ID 176
+ExtraValueInfo.h(709): [info] ExtraValue 'HealthBase', ID 177
+ExtraValueInfo.h(709): [info] ExtraValue 'HealthMax', ID 178
+ExtraValueInfo.h(709): [info] ExtraValue 'HealthPercent', ID 179
+ExtraValueInfo.h(709): [info] ExtraValue 'Level', ID 180
+ExtraValueInfo.h(709): [info] ExtraValue 'MagickaBase', ID 181
+ExtraValueInfo.h(709): [info] ExtraValue 'MagickaMax', ID 182
+ExtraValueInfo.h(709): [info] ExtraValue 'MagickaPercent', ID 183
+ExtraValueInfo.h(709): [info] ExtraValue 'StaminaBase', ID 184
+ExtraValueInfo.h(709): [info] ExtraValue 'StaminaMax', ID 185
+ExtraValueInfo.h(709): [info] ExtraValue 'StaminaPercent', ID 186
+ExtraValueInfo.h(709): [info] ExtraValue 'EPValue', ID 187
+ExtraValueInfo.h(713): [info] Recovery Values 0
+FileParser.h(136): [info] Including EPValue to <..._EnableEPScale> at kWaitingForPlayer(95) as a Match
+FileParser.h(136): [info] Including InjuryResist to Adamant.esp at kShieldPerks(66) as a Plugin
+FileParser.h(136): [info] Including StaggerPoints to Adamant.esp at kVariable10(77) as a Plugin
+FileParser.h(136): [info] Including StaggerPower to Adamant.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to Adamant.esp at kVariable02(69) as a Plugin
+FileParser.h(136): [info] Including CritResist to Adamant.esp at kVariable03(70) as a Plugin
+FileParser.h(136): [info] Including BleedResist to Adamant.esp at kVariable04(71) as a Plugin
+FileParser.h(136): [info] Including MagickaResist to Adamant.esp at kVariable05(72) as a Plugin
+FileParser.h(136): [info] Including StaminaResist to Adamant.esp at kVariable06(73) as a Plugin
+FileParser.h(136): [info] Including SwordPoints to Adamant.esp at kFame(60) as a Plugin
+FileParser.h(136): [info] Including StaggerPoints to AdamantBlade.esp at kVariable10(77) as a Plugin
+FileParser.h(136): [info] Including StaggerPower to AdamantBlade.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to AdamantBlade.esp at kVariable02(69) as a Plugin
+FileParser.h(136): [info] Including InjuryResist to Apprentice.esp at kShieldPerks(66) as a Plugin
+FileParser.h(136): [info] Including StaggerPoints to Artificer.esp at kVariable10(77) as a Plugin
+FileParser.h(136): [info] Including StaggerPower to Artificer.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to Artificer.esp at kVariable02(69) as a Plugin
+FileParser.h(136): [info] Including InjuryResist to BladeAndBlunt.esp at kShieldPerks(66) as a Plugin
+FileParser.h(136): [info] Including StaggerPoints to BladeAndBlunt.esp at kVariable10(77) as a Plugin
+FileParser.h(136): [info] Including StaggerPower to BladeAndBlunt.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to BladeAndBlunt.esp at kVariable02(69) as a Plugin
+FileParser.h(136): [info] Including MagickaResist to BladeAndBlunt.esp at kVariable05(72) as a Plugin
+FileParser.h(136): [info] Including StaminaResist to BladeAndBlunt.esp at kVariable06(73) as a Plugin
+FileParser.h(117): [error] No ExtraValueInfo detected for 'FuryPoints'
+FileParser.h(105): [info] Custom alias for BleedResist detected, using 'ResistMagic'
+FileParser.h(136): [info] Including BleedResist to MAG_MagicDamageBleed at ResistMagic(44) as a Keyword
+FileParser.h(105): [info] Custom alias for CritResist detected, using 'ResistMagic'
+FileParser.h(136): [info] Including CritResist to MAG_MagicDamageCritical at ResistMagic(44) as a Keyword
+FileParser.h(105): [info] Custom alias for MagickaResist detected, using 'ResistMagic'
+FileParser.h(136): [info] Including MagickaResist to MAG_MagicDamageMagicka at ResistMagic(44) as a Keyword
+FileParser.h(105): [info] Custom alias for StaminaResist detected, using 'ResistMagic'
+FileParser.h(136): [info] Including StaminaResist to MAG_MagicDamageStamina at ResistMagic(44) as a Keyword
+FileParser.h(105): [info] Custom alias for SunResist detected, using 'ResistMagic'
+FileParser.h(136): [info] Including SunResist to MAG_MagicDamageSun at ResistMagic(44) as a Keyword
+FileParser.h(136): [info] Including StaggerPower to Mundus.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to Mundus.esp at kVariable02(69) as a Plugin
+FileParser.h(136): [info] Including CastSpeed to SimonrimSpellSpeed.esp at kNightEye(55) as a Plugin
+FileParser.h(136): [info] Including StaggerPoints to Thaumaturgy.esp at kVariable10(77) as a Plugin
+FileParser.h(136): [info] Including StaggerPower to Thaumaturgy.esp at kVariable01(68) as a Plugin
+FileParser.h(136): [info] Including StaggerResist to Thaumaturgy.esp at kVariable02(69) as a Plugin
+Hooks.h(736): [info] ActorValueUpdate Hook complete...
+Hooks.h(701): [info] RecalculateLeveledActor Hook complete...
+Hooks.h(187): [info] GetActorValueHook complete...
+Hooks.h(238): [info] SetBaseActorValueHook complete...
+Hooks.h(308): [info] ModActorValueHook complete...
+Hooks.h(348): [info] ModBaseActorValueHook complete...
+Hooks.h(389): [info] GetBaseActorValueHook Complete...
+Hooks.h(465): [info] GetActorValueModifier Hook complete...
+Hooks.h(538): [info] GetActorValueIDFromNameHook complete...
+Hooks.h(667): [info] GetActorValueNameFromIDHook complete...
+Hooks.h(601): [info] GetActorValueScriptNameFromIDHook complete...
+Hooks.h(2512): [info] Actor_RemoveActorValueModifiers complete...
+Hooks.h(1215): [info] MagicItemCtor Hook complete...
+Hooks.h(1272): [info] GetActorValueForCostHook complete...
+Hooks.h(900): [info] AdvanceSkill Hook complete...
+Hooks.h(1111): [info] AdvanceSkill Hook complete...
+Hooks.h(799): [info] SpellItem_GetSkillUsageData hook complete...
+Hooks.h(1608): [info] InitValuesHook complete...
+Hooks.h(1403): [info] Created Nth patch for class RE::TESTopicInfo at 1
+Hooks.h(1403): [info] Created Nth patch for class RE::TESObjectBOOK at 0
+Hooks.h(1330): [info] Created Nth patch for class RE::TESTopicInfo at 2
+Hooks.h(1330): [info] Created Nth patch for class RE::BGSCameraPath at 1
+Hooks.h(1330): [info] Created Nth patch for class RE::TESIdleForm at 0
+Hooks.h(2655): [info] Hooks installed.
+ActorValueExtendedList.h(107): [info] total size 188
+ActorValueExtendedList.h(76): [info] success, FF000D0D formID, addr 1C16AD3F100
+ActorValueExtendedList.h(116): [info] Regarded entry 1C16AD3F100 v 1C16AD3F100
+ActorValueExtendedList.h(128): [info] 1C130F6A290 location
+FormExtraValueHandler.h(72): [info] KID Distribution complete, processing forms...
+FormExtraValueHandler.h(486): [info] Starting 16th process 'class RE::TESObjectBOOK'...
+FormExtraValueHandler.h(535): [info] 'class RE::TESObjectBOOK' complete
+ Processed 0 forms and 0 entries, of 1677 total.
+FormExtraValueHandler.h(486): [info] Starting 15th process 'class RE::TESObjectWEAP'...
+FormExtraValueHandler.h(535): [info] 'class RE::TESObjectWEAP' complete
+ Processed 0 forms and 0 entries, of 5588 total.
+FormExtraValueHandler.h(486): [info] Starting 14th process 'class RE::BGSScene'...
+FormExtraValueHandler.h(535): [info] 'class RE::BGSScene' complete
+ Processed 0 forms and 0 entries, of 2135 total.
+FormExtraValueHandler.h(486): [info] Starting 13th process 'class RE::TESPackage'...
+FormExtraValueHandler.h(535): [info] 'class RE::TESPackage' complete
+ Processed 0 forms and 0 entries, of 8120 total.
+FormExtraValueHandler.h(486): [info] Starting 12th process 'class RE::BGSConstructibleObject'...
+FormExtraValueHandler.h(535): [info] 'class RE::BGSConstructibleObject' complete
+ Processed 0 forms and 0 entries, of 3128 total.
+FormExtraValueHandler.h(486): [info] Starting 11th process 'class RE::TESLoadScreen'...
+FormExtraValueHandler.h(535): [info] 'class RE::TESLoadScreen' complete
+ Processed 0 forms and 0 entries, of 377 total.
+FormExtraValueHandler.h(486): [info] Starting 10th process 'class RE::BGSMessage'...
+FormExtraValueHandler.h(535): [info] 'class RE::BGSMessage' complete
+ Processed 0 forms and 0 entries, of 1155 total.
+FormExtraValueHandler.h(486): [info] Starting 9th process 'class RE::BGSCameraPath'...
+FormExtraValueHandler.h(509): [warning] Native form array for class RE::BGSCameraPath is empty. Using custom count.
+FormExtraValueHandler.h(535): [info] 'class RE::BGSCameraPath' complete
+ Processed 0 forms and 0 entries, of 193 total.
+FormExtraValueHandler.h(486): [info] Starting 8th process 'class RE::TESIdleForm'...
+FormExtraValueHandler.h(509): [warning] Native form array for class RE::TESIdleForm is empty. Using custom count.
+FormExtraValueHandler.h(535): [info] 'class RE::TESIdleForm' complete
+ Processed 0 forms and 0 entries, of 4163 total.
+FormExtraValueHandler.h(486): [info] Starting 7th process 'class RE::TESTopicInfo'...
+FormExtraValueHandler.h(509): [warning] Native form array for class RE::TESTopicInfo is empty. Using custom count.
+FormExtraValueHandler.h(535): [info] 'class RE::TESTopicInfo' complete
+ Processed 0 forms and 0 entries, of 25453 total.
+FormExtraValueHandler.h(486): [info] Starting 6th process 'class RE::TESFaction'...
+FormExtraValueHandler.h(535): [info] 'class RE::TESFaction' complete
+ Processed 0 forms and 0 entries, of 1445 total.
+FormExtraValueHandler.h(486): [info] Starting 5th process 'class RE::IngredientItem'...
+FormExtraValueHandler.h(535): [info] 'class RE::IngredientItem' complete
+ Processed 0 forms and 0 entries, of 180 total.
+FormExtraValueHandler.h(486): [info] Starting 4th process 'class RE::EnchantmentItem'...
+FormExtraValueHandler.h(535): [info] 'class RE::EnchantmentItem' complete
+ Processed 0 forms and 0 entries, of 1194 total.
+FormExtraValueHandler.h(486): [info] Starting 3rd process 'class RE::AlchemyItem'...
+FormExtraValueHandler.h(535): [info] 'class RE::AlchemyItem' complete
+ Processed 0 forms and 0 entries, of 561 total.
+FormExtraValueHandler.h(486): [info] Starting 2nd process 'class RE::SpellItem'...
+FormExtraValueHandler.h(535): [info] 'class RE::SpellItem' complete
+ Processed 0 forms and 0 entries, of 2453 total.
+FormExtraValueHandler.h(486): [info] Starting 1st process 'class RE::EffectSetting'...
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 000FEFBC.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 000FEE38.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 000AA157.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 000AA156.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0005B450.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0005B44F.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D222FA9.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D2280AE.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D2466B8.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D2466B9.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D25FBFD.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D48CF08.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D890D61.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0D9AC5CC.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DA2AF4D.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DA2AF4E.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DA2AF4F.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DA4E652.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DD45F27.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DD4B02E.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DD4B02F.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0DFB4DDD.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable02 has been converted into Extra Value StaggerResist for 0E17C3D5.
+ValueAliasHandler.h(1288): [info] Actor Value kShieldPerks has been converted into Extra Value InjuryResist for 0E17C3D7.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable03 has been converted into Extra Value CritResist for 0E1958E5.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable04 has been converted into Extra Value BleedResist for 0E1958E9.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value BleedResist for 0E1BE0FF.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0E1CD405.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0E1CD407.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value BleedResist for 0E1E691E.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0E23284E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E246C69.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value BleedResist for 0E255F71.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value CritResist for 0E2CA6AA.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value CritResist for 0E2D99B4.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2E3BB9.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value CritResist for 0E2F2EC0.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0E32A9D9.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 0E3A4223.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 0E3A4225.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E3C7905.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E3C7906.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E3C7909.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E3C790C.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E3C790E.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E71007F.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0E72E680.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB5AB07.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB5AB08.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB5AB09.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB7E235.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB7E236.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB7E237.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EB7E238.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EF2BD69.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0EF2BD6B.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0F130613.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0F3AE54D.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0F2EDEA0.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for 0F3022AF.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0F3073BC.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0F3073BD.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0F3073BE.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for 0F427D9E.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0F42CEA1.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for 0F42CEA2.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE0168F6.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE0168F8.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016917.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016920.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016921.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016924.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016925.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016928.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value MagickaResist for FE01695C.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for FE016963.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for FE01696F.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value StaminaResist for FE016970.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE01697D.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016987.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016988.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE016989.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE01698A.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE0169AF.
+ValueAliasHandler.h(1288): [info] Actor Value kResistMagic has been converted into Extra Value SunResist for FE0169B0.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE02103E.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE021048.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE021060.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE021853.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE021853.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable01 has been converted into Extra Value StaggerPower for FE05581F.
+FormExtraValueHandler.h(535): [info] 'class RE::EffectSetting' complete
+ Processed 90 forms and 91 entries, of 4706 total.
+FormExtraValueHandler.h(486): [info] Starting 0th process 'class RE::BGSPerk'...
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E2CA6AC.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49E.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kFame has been converted into Extra Value SwordPoints for 0E53E49F.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable01 has been converted into Extra Value StaggerPower for 01ADA215.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable02 has been converted into Extra Value StaggerResist for 01ADA215.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable02 has been converted into Extra Value StaggerResist for 01ADA215.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable02 has been converted into Extra Value StaggerResist for 01ADA215.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable02 has been converted into Extra Value StaggerResist for 01ADA215.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable05 has been converted into Extra Value MagickaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable06 has been converted into Extra Value StaminaResist for 01ADA216.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE01697F.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE01697F.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE01697F.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE01697F.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE016A51.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE016A51.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE016A51.
+ValueAliasHandler.h(1288): [info] Actor Value kVariable10 has been converted into Extra Value StaggerPoints for FE016A51.
+FormExtraValueHandler.h(535): [info] 'class RE::BGSPerk' complete
+ Processed 7 forms and 41 entries, of 1438 total.
+FormExtraValueHandler.h(552): [info] All forms processed.
+ExtraValueStorage.h(409): [warning] Actor FormID 00046746 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000547AF invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000547B3 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000547B7 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00081CDB invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 0008221D invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00082588 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00082589 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00085952 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00085955 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000977F5 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000977F6 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000997B5 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000997B6 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000997B8 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 0009F2E3 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000B6CE1 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000B6FEE invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000E5F77 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000EA673 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 000EC189 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00105A35 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00107CA2 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00107CA3 invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00107D1A invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize
+ExtraValueStorage.h(409): [warning] Actor FormID 00107D1B invalid, dumping.
+ExtraValueStorage.h(425): [error] failed to de/serialize

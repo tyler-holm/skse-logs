@@ -1,0 +1,51 @@
+[22:26:05.344] [29336] [I] SurvivalModeImproved 1-6-5-0 loading...
+[22:26:05.344] [29336] [D] Default Trampoline => 0B / 42B (00.00%)
+[22:26:05.344] [29336] [D] Default Trampoline => 14B / 42B (33.33%)
+[22:26:05.344] [29336] [I] Installed update hook
+[22:26:05.344] [29336] [D] Default Trampoline => 28B / 42B (66.67%)
+[22:26:05.344] [29336] [I] Installed ft message hook
+[22:26:05.344] [29336] [I] Papyrus functions bound.
+[22:26:05.344] [29336] [I] SMI loaded successfully
+[22:26:10.954] [28732] [I] Registered SurvivalModeImprovedApi script
+[22:26:14.899] [29056] [I] SMI_API::RequestPluginAPI called, InterfaceVersion 1
+[22:26:14.899] [29056] [I] SMI_API::RequestPluginAPI returned the API singleton
+[22:26:14.899] [29056] [I] API Call: Setting injury pen handling true
+[22:26:15.304] [29056] [I] Loading all forms.
+[22:26:15.304] [29056] [I] Hunger forms are loaded.
+[22:26:15.304] [29056] [I] Fatigue forms are loaded.
+[22:26:15.304] [29056] [I] Cold forms are loaded.
+[22:26:15.304] [29056] [I] All forms are loaded.
+[22:26:15.304] [29056] [I] Starfrost Installed
+[22:26:15.304] [29056] [I] Current starfrost version from global 200
+[22:26:15.304] [29056] [I] Parsing starfrost version 200.000000
+[22:26:15.304] [29056] [I] Parsed starfrost version 2.0.0
+[22:26:15.304] [29056] [I] Compatibility forms are loaded.
+[22:26:15.304] [29056] [I] Loading global bindings
+[22:26:15.304] [29056] [I] Loaded cold bindings
+[22:26:15.304] [29056] [I] Loaded exhaustion bindings
+[22:26:15.304] [29056] [I] Loaded hunger bindings
+[22:26:15.304] [29056] [I] Loading settings
+[22:26:15.305] [29056] [I] Loading general settings
+[22:26:15.305] [29056] [I] Loading season mults
+[22:26:15.305] [29056] [I] Loading warm season vals
+[22:26:15.305] [29056] [I] Loading cool season vals
+[22:26:15.305] [29056] [I] Loading reach season vals
+[22:26:15.305] [29056] [I] Loading freezing season vals
+[22:26:15.305] [29056] [I] Loading cold settings
+[22:26:15.305] [29056] [I] Settings loaded
+[22:26:37.578] [29336] [I] Deserialized: 0.000000
+[22:26:37.578] [29336] [I] Deserialized: 0.000000
+[22:26:37.578] [29336] [I] Deserialized: 0.000000
+[22:26:37.578] [29336] [I] Deserialized: 0.000000
+[22:26:37.589] [29336] [I] Searching for attached sm quest scripts
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Attached script found. Clearing survival_playerinfo
+[22:26:37.589] [29336] [I] Removing scripts from quest aliases
+[22:26:37.589] [29336] [I] Attached alias script found. Clearing ReferenceAlias

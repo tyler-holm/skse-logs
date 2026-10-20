@@ -1,0 +1,948 @@
+[22:26:05.239] [29336] [I] Light Placer v5.0.0.0
+[22:26:05.240] [29336] [I] Game version : 1.7.104.0
+[22:26:05.240] [29336] [I] *******************CONFIG FILES*******************
+[22:26:05.240] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Aetherial Artifacts.json...
+[22:26:05.241] [29336] [I] 	9 entries
+[22:26:05.241] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Aetherium Shards.json...
+[22:26:05.241] [29336] [I] 	7 entries
+[22:26:05.241] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Afflicted.json...
+[22:26:05.241] [29336] [I] 	6 entries
+[22:26:05.241] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - All Maker Stones.json...
+[22:26:05.241] [29336] [I] 	7 entries
+[22:26:05.241] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Apocrypha.json...
+[22:26:05.241] [29336] [I] 	32 entries
+[22:26:05.241] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Ayleid Ruins.json...
+[22:26:05.242] [29336] [I] 	22 entries
+[22:26:05.242] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Blackreach.json...
+[22:26:05.242] [29336] [I] 	18 entries
+[22:26:05.242] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Bound Weapons.json...
+[22:26:05.242] [29336] [I] 	4 entries
+[22:26:05.242] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Caveworms.json...
+[22:26:05.242] [29336] [I] 	3 entries
+[22:26:05.242] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Clutter.json...
+[22:26:05.242] [29336] [I] 	21 entries
+[22:26:05.242] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - College.json...
+[22:26:05.243] [29336] [I] 	3 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Deathbell.json...
+[22:26:05.243] [29336] [I] 	3 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Dwarven Spiders.json...
+[22:26:05.243] [29336] [I] 	1 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Ebonmere.json...
+[22:26:05.243] [29336] [I] 	2 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Falmer.json...
+[22:26:05.243] [29336] [I] 	13 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Glowing Mushrooms.json...
+[22:26:05.243] [29336] [I] 	5 entries
+[22:26:05.243] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Magic FX.json...
+[22:26:05.244] [29336] [I] 	59 entries
+[22:26:05.244] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Meridias Shrine ISL.json...
+[22:26:05.244] [29336] [I] 	6 entries
+[22:26:05.244] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Misc Effects.json...
+[22:26:05.244] [29336] [I] 	14 entries
+[22:26:05.244] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Misc Lights.json...
+[22:26:05.244] [29336] [I] 	5 entries
+[22:26:05.244] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Moon Crests.json...
+[22:26:05.245] [29336] [I] 	7 entries
+[22:26:05.245] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Mote.json...
+[22:26:05.245] [29336] [I] 	1 entries
+[22:26:05.245] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Mysticsm.json...
+[22:26:05.245] [29336] [I] 	43 entries
+[22:26:05.245] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Nirnroot.json...
+[22:26:05.245] [29336] [I] 	2 entries
+[22:26:05.245] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Paragon Gems.json...
+[22:26:05.245] [29336] [I] 	6 entries
+[22:26:05.245] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Potions Dim.json...
+[22:26:05.246] [29336] [I] 	80 entries
+[22:26:05.246] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Saints and Seducers.json...
+[22:26:05.246] [29336] [I] 	9 entries
+[22:26:05.246] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Solstheim.json...
+[22:26:05.246] [29336] [I] 	6 entries
+[22:26:05.246] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Soulgems.json...
+[22:26:05.246] [29336] [I] 	28 entries
+[22:26:05.246] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Spiders of Solstheim.json...
+[22:26:05.247] [29336] [I] 	54 entries
+[22:26:05.247] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Staff Enchanters.json...
+[22:26:05.247] [29336] [I] 	1 entries
+[22:26:05.247] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Stahlrim.json...
+[22:26:05.247] [29336] [I] 	5 entries
+[22:26:05.247] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Standing Stones.json...
+[22:26:05.247] [29336] [I] 	13 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Torchbug Blissbug.json...
+[22:26:05.248] [29336] [I] 	4 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\CS Light\CS Light - Witchlight.json...
+[22:26:05.248] [29336] [I] 	1 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS - Embers ISL.json...
+[22:26:05.248] [29336] [I] 	5 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS - Furniture ISL.json...
+[22:26:05.248] [29336] [I] 	15 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS - Lanterns ISL - Exterior.json...
+[22:26:05.248] [29336] [I] 	2 entries
+[22:26:05.248] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS - Lanterns ISL.json...
+[22:26:05.249] [29336] [I] 	2 entries
+[22:26:05.249] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS Light - Candles Alt ISL.json...
+[22:26:05.249] [29336] [I] 	18 entries
+[22:26:05.249] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS Light - Chandeliers ISL.json...
+[22:26:05.249] [29336] [I] 	2 entries
+[22:26:05.249] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS Light - Nordic Halls ISL.json...
+[22:26:05.249] [29336] [I] 	12 entries
+[22:26:05.249] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\Lux CS Light - Torches ISL.json...
+[22:26:05.249] [29336] [I] 	1 entries
+[22:26:05.249] [29336] [I] Reading Data\LightPlacer\Lux CS Patch\LUX Particle Lights LP.json...
+[22:26:05.250] [29336] [I] 	65 entries
+[22:26:05.250] [29336] [I] Time taken: 9 ms
+[22:26:05.250] [29336] [I] *********************SETTINGS*********************
+[22:26:05.250] [29336] [I] Reading Data\SKSE\Plugins\po3_LightPlacer.ini...
+[22:26:05.250] [29336] [I] Reading Data\LightPlacer\Lux CS.ini...
+[22:26:05.251] [29336] [I] 
+[22:26:05.251] [29336] [I] bShowMarkers : false
+[22:26:05.251] [29336] [I] bDisableAllGameLights : false
+[22:26:05.251] [29336] [I] fGlobalLightRadiusMult : 1
+[22:26:05.251] [29336] [I] fGlobalLightFadeMult : 1
+[22:26:05.251] [29336] [I] LightBlackList : 444 entries
+[22:26:05.251] [29336] [I] LightWhiteList : 0 entries
+[22:26:05.251] [29336] [I] **********************HOOKS***********************
+[22:26:05.251] [29336] [I] Hooked class RE::TESObjectREFR::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::Hazard::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::Explosion::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::BarrierProjectile::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::BeamProjectile::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::ConeProjectile::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::MissileProjectile::Load3D
+[22:26:05.251] [29336] [I] Hooked class RE::GrenadeProjectile::Load3D
+[22:26:05.252] [29336] [I] Hooked class RE::ArrowProjectile::Load3D
+[22:26:05.252] [29336] [I] Hooked class RE::ShaderReferenceEffect::Init
+[22:26:05.252] [29336] [I] Hooked class RE::ModelReferenceEffect::Init
+[22:26:05.252] [29336] [I] Hooked ActorMagicCaster::AttachEnchantmentVisuals
+[22:26:05.252] [29336] [I] Hooked BipedAnim::AddAddonNodes
+[22:26:05.252] [29336] [I] Hooked TESObjectREFR::AttachLight
+[22:26:05.252] [29336] [I] Hooked Actor::ReAddCasterLights
+[22:26:05.252] [29336] [I] Hooked ShaderReferenceEffect::Resume
+[22:26:05.252] [29336] [I] Hooked TESObjectREFR::RemoveLight
+[22:26:05.252] [29336] [I] Hooked ExtraDataList::GetLightData
+[22:26:05.252] [29336] [I] Hooked BipedAnim::RunBiped3DDetach
+[22:26:05.252] [29336] [I] Hooked class RE::Hazard::Release3DRelatedData
+[22:26:05.252] [29336] [I] Hooked class RE::Explosion::Release3DRelatedData
+[22:26:05.252] [29336] [I] Hooked class RE::ShaderReferenceEffect::Detach
+[22:26:05.252] [29336] [I] Hooked class RE::ModelReferenceEffect::Detach
+[22:26:05.252] [29336] [I] Hooked ShaderReferenceEffect::Suspend
+[22:26:05.252] [29336] [I] Hooked TESObjectCELL::UpdateActivateParents
+[22:26:05.252] [29336] [I] Hooked TESObjectCELL::UpdateManagedNodes
+[22:26:05.252] [29336] [I] Hooked class RE::ShaderReferenceEffect::UpdatePosition
+[22:26:05.252] [29336] [I] Hooked class RE::ModelReferenceEffect::UpdatePosition
+[22:26:05.252] [29336] [I] Hooked Hazard::CheckInit3D
+[22:26:05.252] [29336] [I] Hooked Explosion::CheckInit3D
+[22:26:05.252] [29336] [I] Hooked ActorMagicCaster::Update
+[22:26:05.252] [29336] [I] Hooked NiSwitchNode::UpdateDownwardsPass
+[22:26:05.252] [29336] [I] Hooked class RE::TESObjectREFR::SetParentCell
+[22:26:05.252] [29336] [I] Hooked class RE::Character::SetParentCell
+[22:26:05.252] [29336] [I] Hooked class RE::PlayerCharacter::SetParentCell
+[22:26:05.252] [29336] [I] Installed TESObjectLIGH::GenDynamic patch
+[22:26:05.630] [29336] [I] **********************MERGES**********************
+[22:26:05.630] [29336] [W] Failed to dispatch message to MergeMapper
+[22:26:05.630] [29336] [I] MergeMapper not detected
+[22:26:10.954] [28732] [I] Registered LightPlacer class
+[22:26:15.206] [29056] [I] ********************PROCESSING********************
+[22:26:15.207] [29056] [I] Processing time taken: 1 ms
+[22:26:15.207] [29056] [I] *********************RESULTS**********************
+[22:26:15.207] [29056] [I] Models : 766 (872 lights)
+[22:26:15.207] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancedialfm.nif: 1 lights
+[22:26:15.207] [29056] [I] 	magus\mysticism\paralyzemasshandeffects1h.nif: 1 lights
+[22:26:15.207] [29056] [I] 	magic\firestormcastbodyfx.nif: 1 lights
+[22:26:15.207] [29056] [I] 	clutter\ruins\ruinscandlesconceon02.nif: 1 lights
+[22:26:15.207] [29056] [I] 	clutter\lanterns\lux_lanternwhiteruntable02.nif: 1 lights
+[22:26:15.207] [29056] [I] 	clutter\common\hotiron.nif: 1 lights
+[22:26:15.207] [29056] [I] 	clutter\potions\poisonfear01.nif: 1 lights
+[22:26:15.207] [29056] [I] 	clutter\potions\potionfortifycarrygreat.nif: 1 lights
+[22:26:15.207] [29056] [I] 	Horn Candle Variants\candlehornchandelier01_HCV.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\candles\candlehornchandelier02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_G.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\soulcairn\sc_lightwell01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisonweaknessmagicka.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisondamagestamina04.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\plants\rootflamestalk01activator.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemmalyn.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemgrand01fullpetty.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\plants\cavewormgroup\caveworm3group.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\dawnbreakerpedestal\crystalpedestal.nif: 2 lights
+[22:26:15.208] [29056] [I] 	clutter\blackreach\blackreachgiantmushhoriz03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\reanimatetargetfx.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impcandle01_F.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\silvercandlestick02_H.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabrasingle_03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\aetheriumshard03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\poisonimpactfx01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_F.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\SilverCandleStick01_G.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dungeons\nordic\temple\bghalls\nortmphallbgcolumnsm01.nif: 2 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanterndawnstarhanging01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternfalkreathhanging01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternfarmstable01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\ambient\fxglowfillroundbrt.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonewater.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecconjuration.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\mgaugurfx01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\falmer\falmerdripanim02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxzombie.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\ingredients\firesaltpile.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\chauruseggs\eggsacs01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\runecalmprojectile.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\GlazedCandlesStatic011.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\GlazedCandlesStatic014.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\silvercandlestick02_M.nif: 1 lights
+[22:26:15.208] [29056] [I] 	pg1\clutter\silver\silvercandlestick02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	Horn Candle Variants\candlehornfloor01_HCV.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternruinstable01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisonparalyze04.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisonfrenzy02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionhealthlesser.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionresistfire50.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silverchandeliermedium_01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfiredead.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\summonblueritualhandeffects1h.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\effects\fxdlc1sctreasurebarrier01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabrasingle_01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_I.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\ambient\fxglowfillrndlitxbrt.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\ambient\fxglowfillrndlitxdim.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionskooma.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\quest\ms12whitephialrepaired.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silverchandeliersmall_01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderexplosionflame.nif: 1 lights
+[22:26:15.208] [29056] [I] 	pg1\clutter\silver\silvercandlestick01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\silvercandlestick02_F.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\silvercandlestick02_L.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabratriple_01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\SilverCandleStick03_B.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\PotionFortifyStamRateGreat.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\plants\rootrotscaleactivator.nif: 2 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemblack01fullcommon.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemwylandriah.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemblack01full.nif: 1 lights
+[22:26:15.208] [29056] [I] 	furniture\workbenches\enchantingworkstation01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\GlazedCandles01_G.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternfalkreathtable01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternsolitudetable03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\aetheriumshard01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisondamagehealth02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisonfrenzy03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionresistfrost100.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionstaminaextra.nif: 1 lights
+[22:26:15.208] [29056] [I] 	critters\firefly\FireflyGO.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\ingredients\icewraithteeth.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\dungeons\castle\animated\secretentrance\cassecentrancebase01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\sunbeam.nif: 1 lights
+[22:26:15.208] [29056] [I] 	DynamicCandles\candlehornwall01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impcandelabracandle01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impwallsconce02candleon01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_H.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystals01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemgrand01fulllesser.nif: 1 lights
+[22:26:15.208] [29056] [I] 	furniture\blacksmithforgemarker.nif: 1 lights
+[22:26:15.208] [29056] [I] 	furniture\alchemyworkbench_1.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\healcontargetfx01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\reanimateimpact01.nif: 4 lights
+[22:26:15.208] [29056] [I] 	DynamicCandles\arcandleplate01off.nif: 1 lights
+[22:26:15.208] [29056] [I] 	Horn Candle Variants\candlehornwall01_HCV.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\impcandle01_G.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\landscape\dlc2firecraterround.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\boundmace01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	_byoh\plants\byohhouseingrdglowmushrm01.nif: 4 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionfortifyhealthextreme.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionmagickaextra.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\dungeons\root\clutter\firestalkbud.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\powershrines\powershrine01\warriorstone.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\icicleimpact01.nif: 6 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\silvercandlestick03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\ambient\fxglowfillrndlitmid.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternriftenhanging01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arwelkydstonewhite01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\falmer\falmerdrip04.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionfortifystaminaextreme.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_M.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojshockthrown.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidershockcloakinv.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\firesprayfx03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\plants\dlc01glowplant01ingredient.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\blackreach\blackreachgiantmushroom04.nif: 1 lights
+[22:26:15.208] [29056] [I] 	weapons\boundweapons\boundarrowflight.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\mgmagicfirepillareye01.nif: 3 lights
+[22:26:15.208] [29056] [I] 	clutter\sovngarde\sovcandlestick02static.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternwinterholdhanging01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\dungeons\apocrypha\animated\aposconces\apoheadscone03ani.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\bgssse067\clutter\elementalshard\elementalshard01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemgrand01full.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\poisonsprayprojectile01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\blackreach\blackreachgiantmushroom01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\firesprayfx01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	DynamicCandles\arcandleplate02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\GlazedCandlesStatic08.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabrasingle_02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\silver\SilverCandleStick01_I.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_K.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternwhiteruntable01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternsolitudehangingbugged01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arwelkydstonewhite02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arceilingwelkydgreen01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisonfrenzy04.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionhealthextra.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionresistshock50.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\blackreach\blackreachvinefloor01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfire.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\shieldritualhandeffects1h.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magus\mysticism\lightningstormhandeffects1h.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\furniture\oven01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\maginvshockspellart.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonetree.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\bgssse037\clutter\welkyndstone\welkyndstone.nif: 1 lights
+[22:26:15.208] [29056] [I] 	animobjects\animobjectblacksmithforgeiron.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionmagickalesser.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\dwemer\dweichorgoo01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\ingredients\voidsalts.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancecrestfm.nif: 1 lights
+[22:26:15.208] [29056] [I] 	magic\wardbodyfx.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\mgmagicfirepillarmidden01.nif: 3 lights
+[22:26:15.208] [29056] [I] 	clutter\GlazedCandlesStatic09.nif: 1 lights
+[22:26:15.208] [29056] [I] 	effects\ambient\fxglowfillrndlitdim.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternsolitudetablebugged01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternmorthalhanging01.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanternsolitudehanging03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc02\weapons\bounddaggerencheffects.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\poisondamagemagicka03.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\potions\potionresistmagicka100.nif: 1 lights
+[22:26:15.208] [29056] [I] 	creationclub\_shared\plants\rootscreamingmawactivator.nif: 2 lights
+[22:26:15.208] [29056] [I] 	clutter\soulgem\soulgemarniel.nif: 1 lights
+[22:26:15.208] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfirecloakthrown.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancecrestcm.nif: 1 lights
+[22:26:15.208] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm1way02.nif: 1 lights
+[22:26:15.208] [29056] [I] 	clutter\lanterns\lux_lanterndawnguardtable01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\falmer\falmerdripanim03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	_byoh\plants\switchnodechildren\byohhouseingrdglowmushrm01_1.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisonweaknessfrost.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\soulgem\soulgemblack01fulllesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\dungeons\castle\animated\scportalbowl\casscportalbowl01.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\powershrines\powershrine01\apprenticestone.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\blackreach\blackreachsmallmushroom03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgemblue01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\turnundeadtargetfx.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\fxfirewithembers01_lite.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\common\candlelanternwithcandle01.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impcandle01_K.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_D.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm2way01.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\lanterns\lux_lanternwindhelmtable02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	weapons\boundweapons\boundaxeencheffects.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionfortifymagickaextreme.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\obs_lightfixtures\obs_silverchandelier_pole_01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidersackpoison.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\poisonwallfx01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\rustmassexplosion01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\maginvboundshield.nif: 2 lights
+[22:26:15.209] [29056] [I] 	dlc01\armor\circlets\circletmcrystal.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\armor\circlets\circletfcrystal.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\silvercandlestick02_B.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\lanterns\lux_lanternriftenhanging02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxambbeamdust_dim04.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecrestoration.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidershockdead.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\blackpool\blackpoolchamber\nocturnalschamber01.nif: 4 lights
+[22:26:15.209] [29056] [I] 	clutter\woodfires\fireplacewood01burning.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\GlazedCandlesStatic06.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\silvercandlestick02_J.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impwallsconcecandle02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxambbeamdust_dim01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecillusion.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\mgmagicfirepillar01.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\falmer\falmerdripanim06.nif: 1 lights
+[22:26:15.209] [29056] [I] 	plants\glowingmushroomcluster01.nif: 2 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxpoison.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\plants\cavewormsmall\cavewormsmall.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\common\torchpermanent01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\candles\candlehornwall01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\sovngarde\sovcandlestick03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\ruins\ruinsfloorcandlelampsmon.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\aetheriumcrest01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionfortifycarrylesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionfortifystaminagreat.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionhealthgreat.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\powershrines\powershrine01\serpentstone.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfrost.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojpoisonthrown.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidersackshock.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\firestormhandeffects1h.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\illusionmassredhandeffects1h.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandlestick_04.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impcandle01_J.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\sovngarde\sovcandlestick02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\SilverCandleStick01_H.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\SilverCandleStick01_J.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_C.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\lanterns\lux_lanternwindhelmtable01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\animated\aposconces\apomouthsconce03ani.nif: 1 lights
+[22:26:15.209] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment05.nif: 1 lights
+[22:26:15.209] [29056] [I] 	creationclub\bgssse037\clutter\varlastone\varlastone.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\fxpoisoncloak.nif: 2 lights
+[22:26:15.209] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgemorange01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\SilverCandleStick03_C.nif: 1 lights
+[22:26:15.209] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystals02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\boundwaraxe01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\powershrines\powershrine01\ladystone.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxshock.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderpoisoninv.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\sovngarde\sovcandlestick01static.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_G.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dungeons\nordic\temple\bghalls\nortmphallbgcolumn01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\lanterns\lux_lanternfarmshanging01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxsmokewetmistlg1x1.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecalchemy.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\falmer\falmerdrip06.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spidercrumbleexplosionfrost.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\dawnbreakerpedestal\crystalholder.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\armor\circlets\circletkhaajitmcrystal.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\magic\dlc1impactsunfirespell.nif: 2 lights
+[22:26:15.209] [29056] [I] 	effects\fxda16barrierdoor.nif: 1 lights
+[22:26:15.209] [29056] [I] 	critters\firefly\fireflyinjar.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\fxfirewithemberslogs01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dungeons\nordic\temple\bghalls\nortmphallbgcolumn03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\landscape\dlc2fxflamingrockdebris01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\ardoor01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	plants\glowingmushroomsingle01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisondamagehealth03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionstaminagreat.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderzombieinv.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\silvercandlestick02_D.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisondamagemagicka01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionresistmagicka50.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impchandelliercandle03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\maginvpoison.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\magic\dlc2bloodskalprojvert.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\shieldspellbodyfx.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\impcandle01_H.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\GlazedCandles01_H.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\silvercandlestick02_K.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxglowfillroundxbrt.nif: 1 lights
+[22:26:15.209] [29056] [I] 	weapons\boundweapons\boundbowencheffects.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisondamagestamina02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\soulgem\soulgemgreater01fulllesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\quest\da13vinepustule01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\quest\barenziahsjewelrybox.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\blackreach\blackreachsmallmushroom05.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\clutter\dlc2stalhrimpile.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\healmystcontargetfx01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\fxfire02new.nif: 1 lights
+[22:26:15.209] [29056] [I] 	Horn Candle Variants\candlehorntable01_HCV.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\ruins\ruinsfloorcandlelampmidon02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_E.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\lux_fxdwegreenflame.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\soulgem\soulgemgreater01fullpetty.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgemwhite01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\icicleimpactfast01.nif: 6 lights
+[22:26:15.209] [29056] [I] 	magic\illusionnegimpact01.nif: 4 lights
+[22:26:15.209] [29056] [I] 	smim\moveablelantern_smim.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\GlazedCandles01_D.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\lux_fxnosmokelargeclose01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisonparalyze02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionstaminalesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\soulgem\soulgemcommon01fullpetty.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\powershrines\powershrine01\towerstone.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\obs_lightfixtures\obs_silverchandelier_foot_01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfirecloak.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\runerustprojectile.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\poisonsprayprojectile02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	_byoh\furniture\ovenmarker.nif: 2 lights
+[22:26:15.209] [29056] [I] 	clutter\blackreach\blackreachgiantmushroom03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\soultraptargeteffects.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandlesconce_01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxambbeamdust_dim02.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\animated\banners\apobanner01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc02\dungeons\apocrypha\animated\banners\apobanner03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisonfear05.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\soulgem\soulgempetty01full.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfrostcloakthrown.nif: 1 lights
+[22:26:15.209] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfrostthrown.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\ingredients\sap.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magus\mysticism\metalbody01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	furniture\workbenches\enchantingworkbench01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dlc01\armor\circlets\circletcrystal_go.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\silver\silvercandlestick02_G.nif: 1 lights
+[22:26:15.209] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm4way02.nif: 3 lights
+[22:26:15.209] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm4way01.nif: 3 lights
+[22:26:15.209] [29056] [I] 	clutter\lanterns\lux_lanterndawnguardhanging01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	effects\ambient\fxambbeamdust_dim03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\poisondamagehealth01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potionfortifymagickalesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\potions\potioninvisibiltylesser.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\ingredients\frostbitevenom01.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\chauruseggs\eggsacs.nif: 1 lights
+[22:26:15.209] [29056] [I] 	ingredients\glowgill.nif: 1 lights
+[22:26:15.209] [29056] [I] 	clutter\blackreach\blackreachgiantmushanim03.nif: 1 lights
+[22:26:15.209] [29056] [I] 	magic\lightspellstaticlight.nif: 2 lights
+[22:26:15.210] [29056] [I] 	magic\lightspellhazard.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\GlazedCandlesStatic016.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\silvercandlestick02_I.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternwhiterunhanging01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\ambient\fxglowfillroundmid.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\clutter\apomouthsconce03.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecalteration.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\falmer\falmerdripanim04.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potioninvisibiltyextra.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\soulgem\soulgemgrand01fullgreater.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\furniture\craftingstaffworkbench01.nif: 5 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\fxfireorbprojectile02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\smeltermarker.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\fxfirecloak01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\candles\candlehorntable01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinscandlesconceon02bronze.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\silvercandlestick02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\RuinSmallFloorSconcebronze.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\crucifiedskele\lux_skeletoncrucifiedlantern.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\landscape\dlc2scatteredembers02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonewind.nif: 1 lights
+[22:26:15.210] [29056] [I] 	animobjects\blacksmithhotironanimobject.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\impchandelliercandle02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\blacksmithforgemarkerwr.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\blacksmithforgemarker_pieter82.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\alchemyworkbench_3.nif: 1 lights
+[22:26:15.210] [29056] [I] 	critters\firefly\firefly.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\silvercandlestick02_N.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonebeast.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifyhealratelesser.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifyhealthgreat.nif: 1 lights
+[22:26:15.210] [29056] [I] 	creationclub\_shared\plants\rootflamestalk02activator.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\powershrines\powershrine01\loverstone.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\alchemyworkstation.nif: 3 lights
+[22:26:15.210] [29056] [I] 	magic\illusionposfxbody01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\impcandle01_B.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\glazedcandlesstatic02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinscandlesconceon01bronze.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\SilverCandleStick03_G.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_F.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\clutter\apolightpost01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecblock.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfrostinv.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfrostcloak.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ingredients\glowdust01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\runeburdenprojectile.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\fxfirewithembers01_brazier.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ruins\RuinSmallFloorSconce.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\SilverCandleStick01_E.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\animated\aposconces\apoheadscone02ani.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecsneak.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisonparalyze01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisonweaknessfire.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifymagickaextra.nif: 1 lights
+[22:26:15.210] [29056] [I] 	creationclub\bgssse037\clutter\ingredients\flamestalk.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\impchandelliercandle01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfire.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\baneundeadhandeffects1h.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\summonritualhandeffects1h.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\witchlight\character assets\witchlightmesh.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\GlazedCandlesStatic05.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\lux_fxdwegreenflamecalm.nif: 2 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternwinterholdtable01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespeclightarmor.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\bounddagger01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojshockcloakthrown.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ingredients\daedraheart.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\magic\dlc2bloodskalprojhorz.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\icicleimpactactor01.nif: 3 lights
+[22:26:15.210] [29056] [I] 	magic\frostbarrier01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\fxda16barrier.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\impcandle01_D.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ruins\ruinscandlesconceon01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\impwallsconcecandle01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonesun.nif: 1 lights
+[22:26:15.210] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment03.nif: 1 lights
+[22:26:15.210] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment04.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc01\architecture\snowelfruins\seruinschandelier01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\fireboltmassprojectile.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\dwemer\dweichorgoo02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgempurple01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\alchemyworkbench.nif: 2 lights
+[22:26:15.210] [29056] [I] 	magic\frostbarrierlarge01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\maginvturnundead.nif: 2 lights
+[22:26:15.210] [29056] [I] 	effects\fxfiresovngarde.nif: 3 lights
+[22:26:15.210] [29056] [I] 	clutter\GlazedCandlesStatic010.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\silvercandlestick02_C.nif: 1 lights
+[22:26:15.210] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinsfloorcandlelampmidonbronze.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm1way01.nif: 3 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternmarkarthtable01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternorsimerhanging01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternriftentable01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	DLC02\Clutter\DLC2HeartStoneRock01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ingredients\humanheart.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\fxnocturnalentrance.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\dawnbreakerpedestal\pedestal.nif: 1 lights
+[22:26:15.210] [29056] [I] 	furniture\alchemyworkstation_2.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachgiantmushroom05.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\fxshockcloak01.nif: 2 lights
+[22:26:15.210] [29056] [I] 	creationclub\bgssse016\effects\ccbgssse016_fxfireblueemberslight.nif: 2 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternwinterholdhanging02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\animated\aposconces\apomouthsconce02ani.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespeconehanded.nif: 1 lights
+[22:26:15.210] [29056] [I] 	creationclub\bgssse067\clutter\elementalshard\elementalshardstatic01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\boundwaraxeencheffects.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\falmer\falmerdrip01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionmagickagreat.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisonparalyze03.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachgiantmushhoriz01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfireinv.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\blizzardhandeffects1h.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\shieldspellhand01.nif: 2 lights
+[22:26:15.210] [29056] [I] 	furniture\alchemyworkbench_2.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\silvercandlestick02_O.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternwinterholdtable02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisonfrenzy01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifyhealthextra.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifymagickagreat.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\soulgem\soulgemgreater01fullcommon.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc01\clutter\dlc01soulgemchunk01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\powershrines\powershrine01\thiefstone.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\SilverCandleStick01_D.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc01\plants\dlc01glowplant01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\effects\dlc2hmdaedra01handeffects.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\lightspellactorfx.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\c06fxfirebluewithembersheavy.nif: 2 lights
+[22:26:15.210] [29056] [I] 	creationclub\bgssse025\critters\maniabug.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\fxfirewithembers01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\giant\giantcampfire01burning.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\GlazedCandles01_F.nif: 1 lights
+[22:26:15.210] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinsfloorcandlelampmidon02bronze.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\ambient\fxsmokelargeclose01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisondamagemagicka05.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\potionfortifystaminalesser.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\soulgem\soulgemblack01fullgreater.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\soulgem\soulgemgreater01full.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spidercrumbleexplosionshock.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\dwemer\dweichorbarrellfull01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\metalrusthand01.nif: 2 lights
+[22:26:15.210] [29056] [I] 	dlc02\clutter\dlc2stalhrimdeposit.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachgiantmushhoriz04.nif: 1 lights
+[22:26:15.210] [29056] [I] 	effects\fxfirewithembers02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\sovngarde\sovcandlestick01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_L.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\lanterns\lux_lanternriftentable02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\clutter\heartstone\heartstone.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwetowerentrance01\dwetowerentrance01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\falmer\falmerdripanim05.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisondamagehealth05.nif: 1 lights
+[22:26:15.210] [29056] [I] 	plants\floradeathbell02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spidercrumbleexplosionpoison.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\chauruseggs\eggsacs02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	plants\floranirnroot01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachtinymushroom01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\silver\SilverCandleStick01_C.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\landscape\dlc2firecrater02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespectwohanded.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\potions\poisondamagestamina01.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\soulgem\soulgemdb.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\powershrines\powershrine01\steedstone.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\ingredients\ectoplasm.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachsmallmushroom02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\blackreach\blackreachsmallmushroom04.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\sunbeammassbolt.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magus\mysticism\healmystritualhandeffects1h.nif: 1 lights
+[22:26:15.210] [29056] [I] 	dlc02\clutter\dlc2stalhrimore.nif: 1 lights
+[22:26:15.210] [29056] [I] 	landscape\plants\blackreachfern02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\lightningbolt02.nif: 1 lights
+[22:26:15.210] [29056] [I] 	magic\paralyzetargetfx.nif: 1 lights
+[22:26:15.210] [29056] [I] 	weapons\boundweapons\boundarrow.nif: 1 lights
+[22:26:15.210] [29056] [I] 	clutter\GlazedCandlesStatic013.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecspeech.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\boundwarhammerencheffects.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\dungeons\root\clutter\rootmoundround01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\candles\candlehornchandelier01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfiredead.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\zombiespiderimpactimpaleactor.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\healritualgreenlhandeffects1h.nif: 1 lights
+[22:26:15.211] [29056] [I] 	plants\floranirnroot01red.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\common\removabletorch01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachgiantmushanim02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\GlazedCandles01_I.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\SilverCandleStick03_H.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\SilverCandleStick03_I.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dungeons\nordic\temple\bghalls\nortmphallbgcolumnsm02.nif: 2 lights
+[22:26:15.211] [29056] [I] 	DLC02\Clutter\DLC2HeartStoneRock02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecheavyarmor.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\bgssse067\clutter\greatwelkyndstone\argreatwelkyndstonestatic01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\soulgem\soulgemblack01fullpetty.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\armor\circlets\circletargonianfcrystsal.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impcandle01_C.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\silvercandlestick02_E.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\fxfogrollingfacing01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternsolitudehanging01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternmorthaltable01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\ambient\fxglowfillrounddim.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\clutter\apomouthsconce02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\soulgem\soulgemlesser01full.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfaceattach.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\rustprojectilemass01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	furniture\enchantingworkbench.nif: 3 lights
+[22:26:15.211] [29056] [I] 	furniture\alchemyworkstation_1.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impcandle01_E.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\ruins\ruinsfloorcandlelampsmon02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\SilverCandleStick01_B.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternsolitudehanging02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\ambient\fxglowfillroundxdim.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arwelkydplanter01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	creationclub\bgssse067\clutter\greatwelkyndstone\argreatwelkyndstoneitem01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\falmer\falmerdrip05.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionhealthextreme.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionstaminaextreme.nif: 1 lights
+[22:26:15.211] [29056] [I] 	plants\floradeathbell01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	landscape\plants\blackreachfern01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfirecloakinv.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\albinospiderbutt.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderpoisondead.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojshock.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidersackfire.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\rustprojectile01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	magic\illusionnegfxbody01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\giant\giantcampfire01burningnoland.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\silvercandlestick01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinsfloorcandlelampsmonbronze.nif: 1 lights
+[22:26:15.211] [29056] [I] 	fuzzbeed\dragoncultbronze\clutter\ruins\ruinsfloorcandlelampsmon02bronze.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\ruins\ruinsfloorcandlelampmidon.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabratriple_02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\animated\banners\apobanner04.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfrostdead.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfrostdead.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\plants\caveworm\cavewormlarge.nif: 2 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\poisonmasshandeffects1h.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\clutter\dlc2stalhrimpile02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	furniture\blacksmithingskyforgemarker.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\weapons\dwarven\dwarvenstaffcrystal.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\weapons\dwarven\1stpersondwarvenstaffcrystal.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachgiantmushanim04.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm1way03.nif: 2 lights
+[22:26:15.211] [29056] [I] 	dlc02\landscape\dlc2fxflamingrockdebris02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\clutter\apolightpost02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\falmer\falmerdrip03.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisondamagehealth04.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\plants\rootthornhookactivator.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachbush02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidershockinv.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\zombie_glow.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_B.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\soulcairn\sc_crater01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisonfear04.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisonfrenzy05.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionfortifycarryextra.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potioninvisibiltygreat.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\powershrines\powershrine01\lordstone.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\dawnbreakerpedestal\da09meridiastatuefx.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\reanimateritualhandeffects1h.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magic\fxicecloak01.nif: 3 lights
+[22:26:15.211] [29056] [I] 	effects\mgmagicfirepillarsmall.nif: 3 lights
+[22:26:15.211] [29056] [I] 	clutter\GlazedCandles01_J.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\shrines\shrinebase.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecarchery.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arwelkydclusterfx01.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionresistfire100.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionresistfrost50.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\soulgem\soulgemblack01fullgrand.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\clutter\dlc01soulgembowlfull.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\powershrines\powershrine01\atronachstone.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\ingredients\frostsalts.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachsmallmushroom01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancedialcm.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\rustbodyfx02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\armor\circlets\circletkhaajitfcrystal.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\ambient\fxambbeamdust_dim00.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecenchanting.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment06.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\boundshield.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisonweaknessshock.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisondamagestamina05.nif: 1 lights
+[22:26:15.211] [29056] [I] 	_byoh\plants\byohhouseingrddeathbell01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	Horn Candle Variants\candlehornchandelier02_HCV.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\albinospiderbuttdamaged.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxpoisoncloak.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\healritualhandeffects1h.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgemgreen01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magic\turnunimpact01.nif: 4 lights
+[22:26:15.211] [29056] [I] 	effects\fxfirewithembers01_cheap.nif: 1 lights
+[22:26:15.211] [29056] [I] 	DynamicCandles\arcandleplate01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\GlazedCandlesStatic012.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impcandelabracandle02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_B.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_C.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\ambient\fxsmokewetmistlg2x1.nif: 2 lights
+[22:26:15.211] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\aetheriumshard02.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisonparalyze05.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionresistshock100.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\rustmasshandeffects1h.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\clutter\animated\portalgem01\portalgemsocket01.nif: 5 lights
+[22:26:15.211] [29056] [I] 	furniture\alchemyworkstation_3.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\magic\dlc1vampireabsorbproj01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm3way01.nif: 3 lights
+[22:26:15.211] [29056] [I] 	dungeons\nordic\catacombs\smhalls\norcathallsm3way02.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionfortifycarryextreme.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\_shared\dungeons\root\clutter\rootweeds01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\silver\SilverCandleStick03_D.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spidercrumbleexplosionzombie.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxfrost.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxshockcloak.nif: 1 lights
+[22:26:15.211] [29056] [I] 	critters\moths\mothlunarinjar.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\magic\dlc01_sunaurabodyfx.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magic\maginvicespellart.nif: 1 lights
+[22:26:15.211] [29056] [I] 	creationclub\bgssse025\critters\maniabuginjar.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\woodfires\campfire01burning.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\GlazedCandlesStatic015.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_I.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternruinshanging01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\ambient\fxsmokewetmistlgvol01.nif: 3 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespeclockpicking.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc01\effects\dlc1falmervalleybrazierlight.nif: 2 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachbush01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\effects\dlc2skallvillageprayereffect.nif: 1 lights
+[22:26:15.211] [29056] [I] 	effects\fxfire01new.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\sovngarde\sovcandlestick03static.nif: 1 lights
+[22:26:15.211] [29056] [I] 	pg1\clutter\silver\silvercandlestick03.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_E.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternwindhelmhanging01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\lanterns\lux_lanternmarkarthhanging01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstonerock.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecsmithing.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\falmer\falmerdripanim01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	plants\glowingmushroom01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionfortifystaminaextra.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionmagickaextreme.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\potionfortifyskill01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxshockdead.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magus\mysticism\fxfireorbprojectile.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magic\lightningbolt01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	magic\shockwallfx01.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_D.nif: 1 lights
+[22:26:15.211] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecdestruction.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\potions\poisondamagemagicka04.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\soulgem\soulgemlesser01fullpetty.nif: 1 lights
+[22:26:15.211] [29056] [I] 	clutter\blackreach\blackreachgiantmushanim05.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidersackfrost.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\dwemer\dweichorbarrellfull02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	critters\moths\crittermothgreen.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\chauruseggs\eggs.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc01\spriggan\magsprigganmatronvariantbugsprayprojectile.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\impcandle01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandles01_E.nif: 1 lights
+[22:26:15.212] [29056] [I] 	effects\ambient\fxglowfillrndlitbrt.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dwarvenspider\character assets\dwarvenspidercenturionfx.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\falmer\falmerdrip02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\potioninvisibiltyextreme.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\poisonfear03.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\soulgem\soulgemcommon01fulllesser.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\soulgem\soulgemcommon01full.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\metalhand01.nif: 2 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspidersackrare.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\blackreach\blackreachgiantmushanim01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\blackreach\blackreachgiantmushroom02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magic\firestormareaeffect.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternsolitudetabledeadbugged01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	creationclub\bgssse067\clutter\welkyndstone\welkyndstone.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\boundgreatswordencheffects.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\boundmaceencheffects.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\powershrines\powershrine01\wizardstone.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\powershrines\powershrine01\shadowstone.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\obs_lightfixtures\obs_silverchandelierlarge_01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\blackreach\blackreachgiantmushhoriz02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\poisonhandfx.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spidercrumbleexplosionflame.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc01\armor\circlets\circletargonianmcrystal.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandles01_B.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\obs_lightfixtures\obs_silvercandelabrapenta_01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_J.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\aetheriumshard04.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc01\dungeons\dwemer\animated\dwespecialforge01\dwespecialforge01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystalfragment02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\impwallsconce02candleon01_K.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancedialhm.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\spiderinhandfxpoisondead.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojfirethrown.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojpoison.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderpoisoncloakinv.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\clutter\dlc2stalhrimdepleted.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\impcandle01_I.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandles01_C.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\candles\candlehornfloor01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternsolitudetable01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternwindhelmhanging02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternsolitudetable02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\dungeons\apocrypha\clutter\apohoverlight01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\dungeons\apocrypha\animated\aposcryetrigger01\aposcryetrigger01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\silver\SilverCandleStick01_F.nif: 1 lights
+[22:26:15.212] [29056] [I] 	furniture\workbenches\alchemyworkstation01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\dawnbreakerpedestal\crystal.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderfrostcloakinv.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\effects\dlc2hmdaedraimpact01.nif: 3 lights
+[22:26:15.212] [29056] [I] 	magic\firewallfx01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\dungeons\apocrypha\animated\banners\apobanner02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	creationclub\_shared\dungeons\ayleidruins\interior\arrubblecrystals03.nif: 1 lights
+[22:26:15.212] [29056] [I] 	weapons\boundweapons\boundswordencheffects.nif: 1 lights
+[22:26:15.212] [29056] [I] 	effects\moteeffect01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\potionfortifyhealthlesser.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\soulgem\soulgemgrand01fullcommon.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\powershrines\powershrine01\ritualstone.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandlesStatic04.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\silver\SilverCandleStick03_E.nif: 1 lights
+[22:26:15.212] [29056] [I] 	actors\dlc02\spider_poison\characterassets\expspiderprojpoisoncloakthrown.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\quest\da13vinegiantcluster01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\poisonmassexplosion01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\sunfirewallfx01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\effects\dlc2hmdaedramouthexp01.nif: 3 lights
+[22:26:15.212] [29056] [I] 	magic\illusionimpact01.nif: 4 lights
+[22:26:15.212] [29056] [I] 	clutter\woodfires\campfire01landburning.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\glazedcandles01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandlesStatic03.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_H.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\imperial\ImpWallSconceCandle01_J.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanterndawnstartable01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternorsimertable01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\GlazedCandlesStatic07.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\silver\SilverCandleStick03_F.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\silver\SilverCandleStick03_J.nif: 1 lights
+[22:26:15.212] [29056] [I] 	furniture\enchantingworkstation.nif: 3 lights
+[22:26:15.212] [29056] [I] 	furniture\workbenches\alchemyworkbench01.nif: 2 lights
+[22:26:15.212] [29056] [I] 	clutter\common\torchsconce01.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc01\dungeons\castle\animated\secretenrancedials\cassecentrancecresthm.nif: 1 lights
+[22:26:15.212] [29056] [I] 	magus\mysticism\illusionmassgreenhandeffects1h.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\lanterns\lux_lanternwhiterunhanging02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\landscape\standingstone\dlc2standingstoneearth.nif: 1 lights
+[22:26:15.212] [29056] [I] 	dlc02\dungeons\apocrypha\respec\aporespecpickpocket.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\poisondamagemagicka02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\poisonfear02.nif: 1 lights
+[22:26:15.212] [29056] [I] 	clutter\potions\poisondamagestamina03.nif: 1 lights
+[22:26:15.212] [29056] [I] FormIDs : 30 (32 lights)
+[22:26:15.212] [29056] [I] 	1B212: 1 lights
+[22:26:15.212] [29056] [I] 	ABF08: 1 lights
+[22:26:15.212] [29056] [I] 	435A3: 1 lights
+[22:26:15.212] [29056] [I] 	64D67: 1 lights
+[22:26:15.212] [29056] [I] 	10F9A6: 1 lights
+[22:26:15.212] [29056] [I] 	FE68C: 1 lights
+[22:26:15.212] [29056] [I] 	10E296: 1 lights
+[22:26:15.212] [29056] [I] 	1F03A: 1 lights
+[22:26:15.212] [29056] [I] 	DC20D: 1 lights
+[22:26:15.212] [29056] [I] 	3B6CB: 1 lights
+[22:26:15.212] [29056] [I] 	D22FC: 1 lights
+[22:26:15.212] [29056] [I] 	54223: 1 lights
+[22:26:15.212] [29056] [I] 	74799: 1 lights
+[22:26:15.212] [29056] [I] 	10CDC9: 1 lights
+[22:26:15.212] [29056] [I] 	ABF07: 1 lights
+[22:26:15.212] [29056] [I] 	ABEFF: 1 lights
+[22:26:15.212] [29056] [I] 	C5EF7: 1 lights
+[22:26:15.212] [29056] [I] 	647B9: 1 lights
+[22:26:15.212] [29056] [I] 	103129: 1 lights
+[22:26:15.212] [29056] [I] 	3BF79: 1 lights
+[22:26:15.212] [29056] [I] 	D22FB: 1 lights
+[22:26:15.212] [29056] [I] 	506D7: 1 lights
+[22:26:15.212] [29056] [I] 	75272: 3 lights
+[22:26:15.212] [29056] [I] 	4E220: 1 lights
+[22:26:15.212] [29056] [I] 	56AC9: 1 lights
+[22:26:15.212] [29056] [I] 	E7557: 1 lights
+[22:26:15.212] [29056] [I] 	DC20E: 1 lights
+[22:26:15.212] [29056] [I] 	54224: 1 lights
+[22:26:15.212] [29056] [I] 	57C67: 1 lights
+[22:26:15.212] [29056] [I] 	12FD9: 1 lights
+[22:26:15.213] [29056] [I] **********************DEBUG***********************
+[22:26:15.213] [29056] [I] Installed LogLP console command
+[22:26:15.213] [29056] [I] Installed ToggleLP console command
+[22:26:15.213] [29056] [I] Installed ReloadLP console command

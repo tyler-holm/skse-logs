@@ -1,0 +1,542 @@
+SKSE64 runtime: initialize (version = 2.3.1 01070680 01DD6042BD4449AC, os = 6.2 (9200))
+imagebase = 00007FF75BDC0000
+reloc mgr imagebase = 00007FF75BDC0000
+plugin directory = c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+scanning plugin directory c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\Plugins\
+checking plugin ActorValueGenerator.dll
+checking plugin AnimationQueueFix.dll
+checking plugin AutoInputSwitch.dll
+checking plugin BehaviorDataInjector.dll
+checking plugin BladeAndBlunt.dll
+checking plugin CommunityShaders.dll
+checking plugin ComprehensiveAttackRatePatch.dll
+checking plugin CraftingCategories.dll
+checking plugin CustomSkills.dll
+checking plugin EngineFixes.dll
+checking plugin HandToHand.dll
+checking plugin ImprovementNamesCustomizedSSE.dll
+checking plugin InventoryInjector.dll
+checking plugin Journeyman.dll
+checking plugin LexiconSKSE.dll
+checking plugin MCMHelper.dll
+checking plugin NPCSpellVariance.dll
+checking plugin OpenAnimationReplacer.dll
+checking plugin PairedAnimationImprovements.dll
+checking plugin PerkEntryPointExtender.dll
+checking plugin po3_DualCastingFix.dll
+checking plugin po3_KeywordItemDistributor.dll
+checking plugin po3_LightPlacer.dll
+checking plugin po3_SpellPerkItemDistributor.dll
+checking plugin po3_Tweaks.dll
+checking plugin Precision.dll
+checking plugin ScrambledBugs.dll
+checking plugin ScrambledUpdates.dll
+checking plugin ScriptEffectArchetypeCrashFix.dll
+checking plugin SimpleDualSheath.dll
+checking plugin SKSE_ISL.dll
+checking plugin SSEDisplayTweaks.dll
+checking plugin SurvivalModeImproved.dll
+checking plugin VendorRespawnFix.dll
+preloading plugin "EngineFixes"
+preloading plugin "ScrambledUpdates"
+preinit complete
+config path = c:\program files (x86)\steam\steamapps\common\Skyrim Special Edition\Data\SKSE\skse.ini
+loading plugin "ActorValueGenerator"
+registering plugin listener for SKSE at 1 of 36
+loading plugin "AnimationQueueFix"
+plugin 2 allocated 14 bytes from branch pool
+loading plugin "AutoInputSwitch"
+plugin 3 allocated 16 bytes from branch pool
+registering plugin listener for SKSE at 3 of 36
+loading plugin "BehaviorDataInjector"
+registering plugin listener for SKSE at 4 of 36
+loading plugin "BladeAndBlunt"
+plugin 5 allocated 320 bytes from branch pool
+registering plugin listener for SKSE at 5 of 36
+loading plugin "CommunityShaders"
+plugin 6 allocated 1024 bytes from branch pool
+registering plugin listener for SKSE at 6 of 36
+loading plugin "ComprehensiveAttackRatePatch"
+registering plugin listener for SKSE at 7 of 36
+plugin 7 allocated 126 bytes from branch pool
+loading plugin "CraftingCategories"
+plugin 8 allocated 28 bytes from branch pool
+registering plugin listener for SKSE at 8 of 36
+loading plugin "CustomSkills"
+plugin 9 allocated 242 bytes from branch pool
+registering plugin listener for SKSE at 9 of 36
+registering plugin listener for SkillDecay at 9 of 36
+loading plugin "EngineFixes"
+registering plugin listener for SKSE at 10 of 36
+loading plugin "HandToHand"
+registering plugin listener for SKSE at 11 of 36
+loading plugin "ImprovementNamesCustomizedSSE"
+plugin 12 allocated 128 bytes from branch pool
+loading plugin "InventoryInjector"
+plugin 13 allocated 8 bytes from branch pool
+registering plugin listener for SKSE at 13 of 36
+loading plugin "Journeyman"
+plugin 14 allocated 48 bytes from branch pool
+registering plugin listener for SKSE at 14 of 36
+loading plugin "LexiconSKSE"
+registering plugin listener for SKSE at 15 of 36
+loading plugin "MCMHelper"
+registering plugin listener for SKSE at 16 of 36
+loading plugin "NPCSpellVariance"
+registering plugin listener for SKSE at 17 of 36
+loading plugin "OpenAnimationReplacer"
+registering plugin listener for SKSE at 18 of 36
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 61 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+plugin 18 allocated 14 bytes from branch pool
+loading plugin "PairedAnimationImprovements"
+plugin 19 allocated 14 bytes from branch pool
+plugin 19 allocated 14 bytes from branch pool
+loading plugin "PerkEntryPointExtender"
+registering plugin listener for SKSE at 20 of 36
+plugin 20 allocated 70 bytes from branch pool
+loading plugin "Dual Casting Fix"
+registering plugin listener for SKSE at 21 of 36
+loading plugin "Keyword Item Distributor"
+registering plugin listener for SKSE at 22 of 36
+loading plugin "Light Placer"
+plugin 23 allocated 512 bytes from branch pool
+registering plugin listener for SKSE at 23 of 36
+loading plugin "Spell Perk Item Distributor"
+plugin 24 allocated 196 bytes from branch pool
+registering plugin listener for SKSE at 24 of 36
+loading plugin "powerofthree's Tweaks"
+plugin 25 allocated 450 bytes from branch pool
+registering plugin listener for SKSE at 25 of 36
+loading plugin "Precision"
+plugin 26 allocated 1024 bytes from branch pool
+registering plugin listener for SKSE at 26 of 36
+loading plugin "Scrambled Bugs"
+registering plugin listener for SKSE at 27 of 36
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 23 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+plugin 27 allocated 14 bytes from branch pool
+loading plugin "ScrambledUpdates"
+registering plugin listener for SKSE at 28 of 36
+loading plugin "Script Effect Archetype Crash Fix"
+loading plugin "SimpleDualSheath"
+plugin 30 allocated 200 bytes from branch pool
+plugin 30 allocated 800 bytes from local pool
+registering plugin listener for SKSE at 30 of 36
+loading plugin "SKSE_ISL"
+registering plugin listener for SKSE at 31 of 36
+loading plugin "SSEDisplayTweaks"
+plugin 32 allocated 512 bytes from branch pool
+plugin 32 allocated 1536 bytes from local pool
+registering plugin listener for SKSE at 32 of 36
+loading plugin "SurvivalModeImproved"
+plugin 33 allocated 42 bytes from branch pool
+registering plugin listener for SKSE at 33 of 36
+loading plugin "Vendor Respawn Fix"
+plugin ActorValueGenerator.dll (00000001 ActorValueGenerator 02030060) loaded correctly (handle 1)
+plugin AnimationQueueFix.dll (00000001 AnimationQueueFix 01000020) loaded correctly (handle 2)
+plugin AutoInputSwitch.dll (00000001 AutoInputSwitch 01030010) loaded correctly (handle 3)
+plugin BehaviorDataInjector.dll (00000001 BehaviorDataInjector 00010030) loaded correctly (handle 4)
+plugin BladeAndBlunt.dll (00000001 BladeAndBlunt 04000010) loaded correctly (handle 5)
+plugin CommunityShaders.dll (00000001 CommunityShaders 01090010) loaded correctly (handle 6)
+plugin ComprehensiveAttackRatePatch.dll (00000001 ComprehensiveAttackRatePatch 01010051) loaded correctly (handle 7)
+plugin CraftingCategories.dll (00000001 CraftingCategories 01020000) loaded correctly (handle 8)
+plugin CustomSkills.dll (00000001 CustomSkills 03020000) loaded correctly (handle 9)
+plugin EngineFixes.dll (00000001 EngineFixes 07000000) loaded correctly (handle 10)
+plugin HandToHand.dll (00000001 HandToHand 02000000) loaded correctly (handle 11)
+plugin ImprovementNamesCustomizedSSE.dll (00000001 ImprovementNamesCustomizedSSE 02000000) loaded correctly (handle 12)
+plugin InventoryInjector.dll (00000001 InventoryInjector 01010010) loaded correctly (handle 13)
+plugin Journeyman.dll (00000001 Journeyman 02000000) loaded correctly (handle 14)
+plugin LexiconSKSE.dll (00000001 LexiconSKSE 00060030) loaded correctly (handle 15)
+plugin MCMHelper.dll (00000001 MCMHelper 01060030) loaded correctly (handle 16)
+plugin NPCSpellVariance.dll (00000001 NPCSpellVariance 01000010) loaded correctly (handle 17)
+plugin OpenAnimationReplacer.dll (00000001 OpenAnimationReplacer 03020010) loaded correctly (handle 18)
+plugin PairedAnimationImprovements.dll (00000001 PairedAnimationImprovements 01000030) loaded correctly (handle 19)
+plugin PerkEntryPointExtender.dll (00000001 PerkEntryPointExtender 02030070) loaded correctly (handle 20)
+plugin po3_DualCastingFix.dll (00000001 Dual Casting Fix 01000010) loaded correctly (handle 21)
+plugin po3_KeywordItemDistributor.dll (00000001 Keyword Item Distributor 04010000) loaded correctly (handle 22)
+plugin po3_LightPlacer.dll (00000001 Light Placer 05000000) loaded correctly (handle 23)
+plugin po3_SpellPerkItemDistributor.dll (00000001 Spell Perk Item Distributor 07000000) loaded correctly (handle 24)
+plugin po3_Tweaks.dll (00000001 powerofthree's Tweaks 01110010) loaded correctly (handle 25)
+plugin Precision.dll (00000001 Precision 02000060) loaded correctly (handle 26)
+plugin ScrambledBugs.dll (00000001 Scrambled Bugs 00000015) loaded correctly (handle 27)
+plugin ScrambledUpdates.dll (00000001 ScrambledUpdates 01020000) loaded correctly (handle 28)
+plugin ScriptEffectArchetypeCrashFix.dll (00000001 Script Effect Archetype Crash Fix 00000001) loaded correctly (handle 29)
+plugin SimpleDualSheath.dll (00000001 SimpleDualSheath 00010509) loaded correctly (handle 30)
+plugin SKSE_ISL.dll (00000001 SKSE_ISL 00010000) loaded correctly (handle 31)
+plugin SSEDisplayTweaks.dll (00000001 SSEDisplayTweaks 00000519) loaded correctly (handle 32)
+plugin SurvivalModeImproved.dll (00000001 SurvivalModeImproved 01060050) loaded correctly (handle 33)
+plugin VendorRespawnFix.dll (00000001 Vendor Respawn Fix 00000001) loaded correctly (handle 34)
+dispatch message (0) to plugin listeners
+sending message type 0 to plugin 1
+sending message type 0 to plugin 3
+sending message type 0 to plugin 4
+plugin 4 allocated 16 bytes from branch pool
+sending message type 0 to plugin 5
+sending message type 0 to plugin 6
+sending message type 0 to plugin 7
+sending message type 0 to plugin 8
+sending message type 0 to plugin 9
+sending message type 0 to plugin 10
+sending message type 0 to plugin 11
+sending message type 0 to plugin 13
+sending message type 0 to plugin 14
+sending message type 0 to plugin 15
+sending message type 0 to plugin 16
+sending message type 0 to plugin 17
+sending message type 0 to plugin 18
+sending message type 0 to plugin 20
+sending message type 0 to plugin 21
+sending message type 0 to plugin 22
+sending message type 0 to plugin 23
+sending message type 0 to plugin 24
+sending message type 0 to plugin 25
+sending message type 0 to plugin 26
+sending message type 0 to plugin 27
+sending message type 0 to plugin 28
+sending message type 0 to plugin 30
+sending message type 0 to plugin 31
+sending message type 0 to plugin 32
+sending message type 0 to plugin 33
+dispatched message.
+dispatch message (1) to plugin listeners
+sending message type 1 to plugin 1
+sending message type 1 to plugin 3
+sending message type 1 to plugin 4
+sending message type 1 to plugin 5
+sending message type 1 to plugin 6
+sending message type 1 to plugin 7
+sending message type 1 to plugin 8
+sending message type 1 to plugin 9
+sending message type 1 to plugin 10
+sending message type 1 to plugin 11
+sending message type 1 to plugin 13
+sending message type 1 to plugin 14
+sending message type 1 to plugin 15
+plugin 1 allocated 360 bytes from branch pool
+sending message type 1 to plugin 16
+sending message type 1 to plugin 17
+sending message type 1 to plugin 18
+dispatch message (-422868135) to plugin listeners
+sending message type 1 to plugin 20
+sending message type 1 to plugin 21
+sending message type 1 to plugin 22
+dispatch message (-422868135) to plugin listeners
+sending message type 1 to plugin 23
+dispatch message (-422868135) to plugin listeners
+sending message type 1 to plugin 24
+dispatch message (-422868135) to plugin listeners
+sending message type 1 to plugin 25
+sending message type 1 to plugin 26
+sending message type 1 to plugin 27
+sending message type 1 to plugin 28
+sending message type 1 to plugin 30
+sending message type 1 to plugin 31
+sending message type 1 to plugin 32
+sending message type 1 to plugin 33
+dispatched message.
+init complete
+hooked dinput
+dispatch message (6) to plugin listeners
+sending message type 6 to plugin 1
+sending message type 6 to plugin 3
+sending message type 6 to plugin 4
+sending message type 6 to plugin 5
+sending message type 6 to plugin 6
+sending message type 6 to plugin 7
+sending message type 6 to plugin 8
+sending message type 6 to plugin 9
+sending message type 6 to plugin 10
+sending message type 6 to plugin 11
+sending message type 6 to plugin 13
+sending message type 6 to plugin 14
+sending message type 6 to plugin 15
+plugin 15 allocated 112 bytes from branch pool
+sending message type 6 to plugin 16
+sending message type 6 to plugin 17
+sending message type 6 to plugin 18
+sending message type 6 to plugin 20
+sending message type 6 to plugin 21
+sending message type 6 to plugin 22
+sending message type 6 to plugin 23
+sending message type 6 to plugin 24
+sending message type 6 to plugin 25
+sending message type 6 to plugin 26
+sending message type 6 to plugin 27
+sending message type 6 to plugin 28
+sending message type 6 to plugin 30
+sending message type 6 to plugin 31
+sending message type 6 to plugin 32
+sending message type 6 to plugin 33
+dispatched message.
+dispatch message (-1707140088) to plugin listeners
+dispatch message (-1707140088) to plugin listeners
+dispatch message (-1707140088) to plugin listeners
+dispatch message (-1707140088) to plugin listeners
+dispatch message (-1707140088) to plugin listeners
+dispatch message (-1707140088) to plugin listeners
+Reading translations from Interface\Translations\Expressive Facegen Morphs_ENGLISH.txt...
+Reading translations from Interface\Translations\SkyUI_SE_ENGLISH.txt...
+Reading translations from Interface\Translations\I4IconAddon_ENGLISH.txt...
+Reading translations from Interface\Translations\Relationship Dialogue Overhaul_ENGLISH.txt...
+Reading translations from Interface\Translations\MCMHelper_ENGLISH.txt...
+Reading translations from Interface\Translations\Precision_ENGLISH.txt...
+dispatch message (8) to plugin listeners
+sending message type 8 to plugin 1
+sending message type 8 to plugin 3
+sending message type 8 to plugin 4
+sending message type 8 to plugin 5
+sending message type 8 to plugin 6
+dispatch message (-1707140088) to plugin listeners
+sending message type 8 to plugin 7
+sending message type 8 to plugin 8
+sending message type 8 to plugin 9
+dispatch message (-422868135) to plugin listeners
+dispatch message (0) to plugin listeners
+dispatched message.
+sending message type 8 to plugin 10
+sending message type 8 to plugin 11
+sending message type 8 to plugin 13
+dispatch message (-422868135) to plugin listeners
+sending message type 8 to plugin 14
+sending message type 8 to plugin 15
+sending message type 8 to plugin 16
+sending message type 8 to plugin 17
+sending message type 8 to plugin 18
+sending message type 8 to plugin 20
+sending message type 8 to plugin 21
+sending message type 8 to plugin 22
+sending message type 8 to plugin 23
+sending message type 8 to plugin 24
+sending message type 8 to plugin 25
+sending message type 8 to plugin 26
+sending message type 8 to plugin 27
+sending message type 8 to plugin 28
+sending message type 8 to plugin 30
+sending message type 8 to plugin 31
+sending message type 8 to plugin 32
+sending message type 8 to plugin 33
+dispatched message.
+save name is Save7_A4E0F114_0_426A6F726E_DustmansCairn01_000325_20261020032423_10_1
+full save path: C:\Users\Steam\Documents\My Games\Skyrim Special Edition\Saves\T7_Su4mxm\\Save7_A4E0F114_0_426A6F726E_DustmansCairn01_000325_20261020032423_10_1.skse
+dispatch message (2) to plugin listeners
+sending message type 2 to plugin 1
+sending message type 2 to plugin 3
+sending message type 2 to plugin 4
+sending message type 2 to plugin 5
+sending message type 2 to plugin 6
+sending message type 2 to plugin 7
+sending message type 2 to plugin 8
+sending message type 2 to plugin 9
+sending message type 2 to plugin 10
+sending message type 2 to plugin 11
+sending message type 2 to plugin 13
+sending message type 2 to plugin 14
+sending message type 2 to plugin 15
+sending message type 2 to plugin 16
+sending message type 2 to plugin 17
+sending message type 2 to plugin 18
+sending message type 2 to plugin 20
+sending message type 2 to plugin 21
+sending message type 2 to plugin 22
+sending message type 2 to plugin 23
+sending message type 2 to plugin 24
+sending message type 2 to plugin 25
+sending message type 2 to plugin 26
+sending message type 2 to plugin 27
+sending message type 2 to plugin 28
+sending message type 2 to plugin 30
+sending message type 2 to plugin 31
+sending message type 2 to plugin 32
+sending message type 2 to plugin 33
+dispatched message.
+loading co-save
+Loading plugin list:
+	(0 -> 0)	Skyrim.esm
+	(1 -> 1)	Update.esm
+	(2 -> 2)	Dawnguard.esm
+	(3 -> 3)	HearthFires.esm
+	(4 -> 4)	Dragonborn.esm
+	(5 -> 5)	ccbgssse001-fish.esm
+	(1040384 -> 1040384)	ccqdrsse001-survivalmode.esl
+	(1040385 -> 1040385)	ccbgssse037-curios.esl
+	(6 -> 6)	ccbgssse025-advdsgs.esm
+	(1040386 -> 1040386)	cceejsse004-hall.esl
+	(1040387 -> 1040387)	_ResourcePack.esl
+	(7 -> 7)	unofficial skyrim special edition patch.esp
+	(1040388 -> 1040388)	Expressive Facegen Morphs.esl
+	(1040389 -> 1040389)	LexiconSKSE.esl
+	(1040390 -> 1040390)	Lux Orbis - Master plugin.esm
+	(1040391 -> 1040391)	Lux - Resources.esp
+	(8 -> 8)	Lux Via.esp
+	(1040392 -> 1040392)	PerkEntryPointExtender.esl
+	(1040393 -> 1040393)	Lux - Master plugin.esm
+	(1040394 -> 1040394)	SimpleVampFixesSSE.esl
+	(1040395 -> 1040395)	SkyUI_SE.esp
+	(1040396 -> 1040396)	I4IconAddon.esp
+	(9 -> 9)	SMIM-SE-Merged-All.esp
+	(1040397 -> 1040397)	SurvivalModeImproved.esp
+	(10 -> 10)	Relationship Dialogue Overhaul.esp
+	(1040398 -> 1040398)	RDO Updated.esp
+	(1040399 -> 1040399)	Candlehearth.esp
+	(1040400 -> 1040400)	Lux Orbis.esp
+	(11 -> 11)	Landscape Fixes For Grass Mods.esp
+	(1040401 -> 1040401)	Lux Orbis CS.esp
+	(12 -> 12)	AI Overhaul.esp
+	(1040402 -> 1040402)	AI Overhaul - RDO Updated Patch.esp
+	(13 -> 13)	MysticismMagic.esp
+	(14 -> 14)	Adamant.esp
+	(15 -> 15)	Thaumaturgy.esp
+	(16 -> 16)	Apothecary.esp
+	(1040403 -> 1040403)	Apothecary - Rare Curios Patch.esp
+	(1040404 -> 1040404)	Apothecary - Fishing Patch.esp
+	(17 -> 17)	HappyLittleTrees.esp
+	(1040405 -> 1040405)	Lux Via - plugin.esp
+	(1040406 -> 1040406)	Artificer.esp
+	(1040407 -> 1040407)	Starfrost.esp
+	(1040408 -> 1040408)	Stormcrown.esp
+	(1040409 -> 1040409)	Gourmet.esp
+	(18 -> 18)	Pilgrim.esp
+	(19 -> 19)	Lit Road Signs.esp
+	(20 -> 20)	CFTO.esp
+	(21 -> 21)	Cloaks.esp
+	(1040410 -> 1040410)	UndoUSSEPChanges.esp
+	(1040411 -> 1040411)	AI Overhaul - USSEP Patch.esp
+	(1040412 -> 1040412)	Lux Orbis - USSEP patch.esp
+	(1040413 -> 1040413)	Landscape For Grass Mods - Military Camps.esp
+	(1040414 -> 1040414)	UndoUSSEPChanges - Redbelly Mine.esp
+	(1040415 -> 1040415)	AI Overhaul - Fishing Addon.esp
+	(1040416 -> 1040416)	Apothecary - Saints & Seducers Patch.esp
+	(1040417 -> 1040417)	BladeAndBlunt.esp
+	(1040418 -> 1040418)	AdamantBlade.esp
+	(1040419 -> 1040419)	AdamantCrossbows.esp
+	(1040420 -> 1040420)	AdamantSmithing.esp
+	(1040421 -> 1040421)	HandtoHand.esp
+	(1040422 -> 1040422)	SimonrimAttackSpeedFix.esp
+	(1040423 -> 1040423)	SimonrmSaintsSeducersSmithing.esp
+	(1040424 -> 1040424)	Arena.esp
+	(1040425 -> 1040425)	Azurite Weathers III.esp
+	(1040426 -> 1040426)	Azurite III CS.esp
+	(1040427 -> 1040427)	CommonClothing-JarlSleeves.esp
+	(1040428 -> 1040428)	BBNoJumpCost.esp
+	(1040429 -> 1040429)	BBNoSneakCost.esp
+	(22 -> 22)	Cloaks - Dawnguard.esp
+	(23 -> 23)	Cloaks - USSEP Patch.esp
+	(1040430 -> 1040430)	ForswornRetexture Unique Armor of the Old Gods.esp
+	(1040431 -> 1040431)	GourmetFishing.esp
+	(1040432 -> 1040432)	H2HBooksandTrainers.esp
+	(1040433 -> 1040433)	GourmetHandtoHand.esp
+	(1040434 -> 1040434)	GourmetMysticism.esp
+	(1040435 -> 1040435)	GourmetSurvival.esp
+	(1040436 -> 1040436)	GourmetTables.esp
+	(1040437 -> 1040437)	GourmetUSSEP.esp
+	(1040438 -> 1040438)	Imperial Armors and Weapons Retexture SE - Penitus Pants.esp
+	(1040439 -> 1040439)	Journeyman.esp
+	(1040440 -> 1040440)	Scion.esp
+	(1040441 -> 1040441)	Manbeast.esp
+	(1040442 -> 1040442)	Lux Via - Blended Roads Bridges Texture sets.esp
+	(1040443 -> 1040443)	MundusUSSEP.esp
+	(1040444 -> 1040444)	Generic Grass Limiter.esp
+	(1040445 -> 1040445)	MysticismSurvivalSpells.esp
+	(1040446 -> 1040446)	MCMHelper.esp
+	(1040447 -> 1040447)	NSV Creature Races.esp
+	(1040448 -> 1040448)	Precision.esp
+	(1040449 -> 1040449)	Nordic Faces - WoodElfFemale Fix.esp
+	(24 -> 24)	Sorcerer.esp
+	(1040450 -> 1040450)	StarfrostInjuries.esp
+	(1040451 -> 1040451)	SurvivalMode-WeaponSpeedPatch.esp
+	(25 -> 25)	Skyland Watercolor - Slow Green-Vanilla.esp
+	(1040452 -> 1040452)	SweepCleavePrecision_Adamant.esp
+	(1040453 -> 1040453)	NPC Spell Variance.esp
+	(1040454 -> 1040454)	NPC Spell Variance Assets.esp
+	(26 -> 26)	NSV Spell Copies.esp
+	(1040455 -> 1040455)	UndoUSSEPChanges - AE Patch.esp
+	(1040456 -> 1040456)	UndoUSSEPChanges - Adamant Patch.esp
+	(1040457 -> 1040457)	UndoUSSEPChanges - Reasonable.esp
+	(1040458 -> 1040458)	UndoUSSEPChanges - Apothecary Patch.esp
+	(1040459 -> 1040459)	UndoUSSEPChanges - Archery.esp
+	(1040460 -> 1040460)	UndoUSSEPChanges - Artificer Patch.esp
+	(1040461 -> 1040461)	UndoUSSEPChanges - Dawnbreaker.esp
+	(1040462 -> 1040462)	UndoUSSEPChanges - JZargo.esp
+	(1040463 -> 1040463)	UndoUSSEPChanges - Lynly.esp
+	(1040464 -> 1040464)	UndoUSSEPChanges - Mysticism Patch.esp
+	(1040465 -> 1040465)	UndoUSSEPChanges - Thaumaturgy Reasonable Patch.esp
+	(1040466 -> 1040466)	YsoldaRemasterdbyKB.esp
+	(1040467 -> 1040467)	Aetherius.esp
+	(1040468 -> 1040468)	AetheriusNPCSpellAbsorb.esp
+	(1040469 -> 1040469)	Mundus.esp
+	(27 -> 27)	alternate start - live another life.esp
+	(28 -> 28)	Lux.esp
+	(1040470 -> 1040470)	Lux - HDR.esp
+	(1040471 -> 1040471)	Lux CS - Bulbs.esp
+	(1040472 -> 1040472)	Lux CS Templates - Default.esp
+	(1040473 -> 1040473)	Lux - USSEP patch.esp
+	(1040474 -> 1040474)	CS Light.esp
+Loading menu open/close event registrations...
+Loading key input event registrations...
+Loading control input event registrations...
+Loading mod callback event registrations...
+Loading crosshair ref event registrations...
+Loading camera event registrations...
+Loading actor action event registrations...
+Loading NiNode update event registrations...
+Loading SKSEPersistentObjectStorage data...
+Loading SKSEDelayFunctorManager data...
+dispatch message (3) to plugin listeners
+sending message type 3 to plugin 1
+sending message type 3 to plugin 3
+sending message type 3 to plugin 4
+sending message type 3 to plugin 5
+sending message type 3 to plugin 6
+sending message type 3 to plugin 7
+sending message type 3 to plugin 8
+sending message type 3 to plugin 9
+sending message type 3 to plugin 10
+sending message type 3 to plugin 11
+sending message type 3 to plugin 13
+sending message type 3 to plugin 14
+sending message type 3 to plugin 15
+sending message type 3 to plugin 16
+dispatch message (-422868135) to plugin listeners
+sending message type 3 to plugin 17
+sending message type 3 to plugin 18
+sending message type 3 to plugin 20
+sending message type 3 to plugin 21
+sending message type 3 to plugin 22
+sending message type 3 to plugin 23
+sending message type 3 to plugin 24
+sending message type 3 to plugin 25
+sending message type 3 to plugin 26
+sending message type 3 to plugin 27
+sending message type 3 to plugin 28
+sending message type 3 to plugin 30
+sending message type 3 to plugin 31
+sending message type 3 to plugin 32
+sending message type 3 to plugin 33
+dispatched message.
+cleared save path
+SetGameSettingFloat: fDiffMultHPByPCVL not found
+SetGameSettingFloat: fDiffMultHPToPCVL not found
+dispatch message (-1707140088) to plugin listeners
+WidgetLoader.as: setRootPath(a_path = exported/)
+WidgetLoader.as: loadWidget(a_widgetID = 0, a_widgetSource = skyui/activeeffects.swf)

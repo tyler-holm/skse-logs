@@ -1,0 +1,5 @@
+[22:26:05] [info] address library: 435162 offsets
+[22:26:05] [info] patched Scrambled Bugs at 0x7ffe589c0000: 3 displacements
+[22:26:05] [info] loaded 435162 addresses
+[22:26:05] [info] patched Script Effect Archetype Crash Fix at 0x7ffe93850000: 0 displacements
+[22:26:05] [info] patched Vendor Respawn Fix at 0x7ffe8f330000: 0 displacements
